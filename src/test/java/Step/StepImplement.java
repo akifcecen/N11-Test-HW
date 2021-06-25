@@ -223,7 +223,7 @@ public class StepImplement extends BaseTest {
     }
 
 public void saveElementAttributeCsv(List<WebElement> list,char letter ) throws IOException {
-    FileWriter fileWriter = new FileWriter(fileoutput, false);
+    FileWriter fileWriter = new FileWriter((letter+"_letter_store.csv"), false);
     BufferedWriter bufferedWriter=new BufferedWriter(fileWriter);
     StringBuilder stringBuilder = new StringBuilder();
     char chr =letter;

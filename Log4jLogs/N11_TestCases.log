@@ -841,3 +841,78 @@
 2021-06-25 09:03:53 INFO  StepImplement:121 - 2 saniye bekleniyor.
 2021-06-25 09:04:56 INFO  StepImplement:131 - 100 milisaniye bekleniyor.
 2021-06-25 09:05:56 INFO  StepImplement:131 - 100 milisaniye bekleniyor.
+2021-06-25 11:23:20 INFO  Reflections:169 - Reflections took 2231 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 11:23:22 INFO  Reflections:169 - Reflections took 1787 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 11:23:27 INFO  BaseTest:104 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 11:23:28 INFO  StepImplement:150 - LocationAllow elementine tiklandi.
+2021-06-25 11:23:28 INFO  StepImplement:247 - Magazalar elementine focus olundu.
+2021-06-25 11:23:28 INFO  StepImplement:150 - Magazalar elementine tiklandi.
+2021-06-25 11:23:28 INFO  StepImplement:74 - MagazalariGor elementi bulundu.
+2021-06-25 11:23:29 INFO  StepImplement:150 - MagazalariGor elementine tiklandi.
+2021-06-25 11:23:29 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 11:23:43 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 11:23:43 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 11:25:19 INFO  Reflections:169 - Reflections took 2154 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 11:25:21 INFO  Reflections:169 - Reflections took 1769 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 11:25:24 INFO  BaseTest:72 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 11:26:02 INFO  Reflections:169 - Reflections took 2540 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 11:26:04 INFO  Reflections:169 - Reflections took 1965 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 11:26:14 INFO  BaseTest:63 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 11:26:15 INFO  StepImplement:150 - LocationAllow elementine tiklandi.
+2021-06-25 11:26:15 INFO  StepImplement:247 - Magazalar elementine focus olundu.
+2021-06-25 11:26:15 INFO  StepImplement:150 - Magazalar elementine tiklandi.
+2021-06-25 11:26:15 INFO  StepImplement:74 - MagazalariGor elementi bulundu.
+2021-06-25 11:26:18 INFO  StepImplement:150 - MagazalariGor elementine tiklandi.
+2021-06-25 11:26:18 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 11:26:30 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 11:26:30 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 11:26:31 INFO  BaseTest:69 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 11:26:47 INFO  Reflections:169 - Reflections took 2195 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 11:26:49 INFO  Reflections:169 - Reflections took 1770 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 11:26:55 INFO  BaseTest:63 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 11:26:55 INFO  StepImplement:150 - LocationAllow elementine tiklandi.
+2021-06-25 11:26:55 INFO  StepImplement:247 - Magazalar elementine focus olundu.
+2021-06-25 11:26:55 INFO  StepImplement:150 - Magazalar elementine tiklandi.
+2021-06-25 11:26:55 INFO  StepImplement:74 - MagazalariGor elementi bulundu.
+2021-06-25 11:26:57 INFO  StepImplement:150 - MagazalariGor elementine tiklandi.
+2021-06-25 11:26:57 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 11:27:11 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 11:27:11 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 11:27:14 INFO  StepImplement:74 - MagazaYorumları elementi bulundu.
+2021-06-25 11:27:14 INFO  StepImplement:150 - MagazaYorumları elementine tiklandi.
+2021-06-25 11:47:06 INFO  Reflections:169 - Reflections took 2276 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 11:47:08 INFO  Reflections:169 - Reflections took 1792 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 11:47:14 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 11:47:14 INFO  StepImplement:150 - LocationAllow elementine tiklandi.
+2021-06-25 11:47:15 INFO  StepImplement:247 - Magazalar elementine focus olundu.
+2021-06-25 11:47:15 INFO  StepImplement:150 - Magazalar elementine tiklandi.
+2021-06-25 11:47:15 INFO  StepImplement:74 - MagazalariGor elementi bulundu.
+2021-06-25 11:47:16 INFO  StepImplement:150 - MagazalariGor elementine tiklandi.
+2021-06-25 11:47:16 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 11:47:30 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 11:47:30 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 11:47:31 INFO  StepImplement:150 - TumMagazalarButonu elementine tiklandi.
+2021-06-25 11:47:31 INFO  StepImplement:210 - Magaza bilgileri CSV dosyasina kaydediliyor.
+2021-06-25 11:47:34 INFO  StepImplement:216 - A Harfli magazalar yaziliyor
+2021-06-25 11:49:38 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 11:49:47 INFO  StepImplement:216 - B Harfli magazalar yaziliyor
+2021-06-25 11:53:55 INFO  Reflections:169 - Reflections took 2206 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 11:53:57 INFO  Reflections:169 - Reflections took 1787 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 11:54:05 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 11:54:05 INFO  StepImplement:150 - LocationAllow elementine tiklandi.
+2021-06-25 11:54:05 INFO  StepImplement:247 - Magazalar elementine focus olundu.
+2021-06-25 11:54:06 INFO  StepImplement:150 - Magazalar elementine tiklandi.
+2021-06-25 11:54:06 INFO  StepImplement:74 - MagazalariGor elementi bulundu.
+2021-06-25 11:54:07 INFO  StepImplement:150 - MagazalariGor elementine tiklandi.
+2021-06-25 11:54:07 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 11:54:21 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 11:54:21 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 11:54:23 INFO  StepImplement:150 - TumMagazalarButonu elementine tiklandi.
+2021-06-25 11:54:23 INFO  StepImplement:210 - Magaza bilgileri CSV dosyasina kaydediliyor.
+2021-06-25 11:54:26 INFO  StepImplement:216 - A Harfli magazalar yaziliyor
+2021-06-25 11:56:40 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 11:56:49 INFO  StepImplement:216 - B Harfli magazalar yaziliyor
+2021-06-25 11:58:43 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 11:58:49 INFO  StepImplement:216 - C Harfli magazalar yaziliyor
+2021-06-25 11:59:35 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 11:59:44 INFO  StepImplement:216 - D Harfli magazalar yaziliyor
