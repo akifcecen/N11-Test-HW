@@ -112,6 +112,14 @@ public class StepImplement extends BaseTest {
         JavascriptExecutor executor = (JavascriptExecutor) driver;
         executor.executeScript("arguments[0].click();", element);
     }
+    protected boolean isElementExist(String key) {
+
+        ElementsInfo elementInfo = StoreHelper.INSTANCE.findElementInfoByKey(key);
+        By infoParam = ElementHelper.getElementInfoToBy(elementInfo);
+        return !driver.findElements(infoParam).isEmpty();
+
+    }
+
 
 
 
@@ -182,17 +190,13 @@ public class StepImplement extends BaseTest {
         }
         Assert.fail("Elementin Attribute değeri beklenen değerle aynı değil");
     }
-    protected boolean isElementExist(By by){
-        return !driver.findElements(by).isEmpty();
-    }
 
 
     @Step({"<key> elementinin text degerini getir"})
     public void checkAttribute(String key){
 
             WebElement element = findElement(key);
-
-            if(element.isDisplayed())
+            if(isElementExist(key))
                 logger.info(key + " elementinin : " + element.getText());
             else logger.info(key+ " elementinde hiç yorum yok");
     }
@@ -208,11 +212,6 @@ public class StepImplement extends BaseTest {
         productElems.get(randomProduct).click();
     }
 
-    @Step({"<url> adresine git"})
-    public void goToUrl(String url) {
-        driver.get(url);
-        logger.info(url + " adresine gidiliyor.");
-    }
 
 
     @Step({"<key> harf bilgili <key> magaza bilgilerini csv dosyasına yaz"})
@@ -263,17 +262,6 @@ public void saveElementAttributeCsv(List<WebElement> list,char letter ) throws I
         actions.click();
         actions.build().perform();
         logger.info(key + " elementine focus ile tiklandi.");
-    }
-
-    @Step({"Javascript ile xpath tıkla <xpath>"})
-    public void javascriptClickerWithXpath(String xpath) {
-        assertTrue("Element bulunamadi", isDisplayedBy(By.xpath(xpath)));
-        javaScriptClicker(driver, driver.findElement(By.xpath(xpath)));
-        logger.info("Javascript ile " + xpath + " tiklandi.");
-    }
-    @Step({"Chrome uyari popup'ini kabul et"})
-    public void acceptChromeAlertPopup() {
-        driver.switchTo().alert().accept();
     }
 
 }
