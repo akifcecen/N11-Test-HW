@@ -1,9 +1,24 @@
 # N11-Test-HW Automation - Setup Guide
+Setting Up SeleniumGrid
+-----------------------
+Firt step-><p>Download the Selenium Server from <a href="https://www.selenium.dev/downloads/">here</a>. </p>
 
-*Automation have two test cases,
+Second step-> You can place the Selenium Server .jar file anywhere in your HardDrive. The following steps will launch the hub and the node.
 
-TESTCASE1
+Third step-> On the command prompt, type \
+`java -jar selenium-server-standalone-2.30.0.jar -role hub`
+
+Fourt step-> Go your node machine and type \
+`java -Dwebdriver.gecko.driver="C:\geckodriver.exe" -jar selenium-server-standalone-3.4.0.jar -role webdriver -hub http://192.168.1.3:4444/grid/register -port 5566`
+this command will show driver location and makes node ready.
+
+Fifth step->Go to the Selenium Grid web interface and refresh the page. At this point, you have already configured a simple grid. You are now ready to run a test remotely on Node Machine.
+
+
+
+TESTCASE
 ===========
+*Automation have two test cases,
 
 Tum magaza bilgilerinin CSV dosyasına yazilmasi
 ----------------
@@ -42,6 +57,8 @@ Rasgele ürün seçilip sepet kontrolü yapma
 2. Maven
 
 3. Selenium
+
+4. Gauge 
 
 <br />
 ## How to Install Gauge Core
