@@ -13452,3 +13452,395 @@ Total time taken: 36.886s
 26-06-2021 01:37:42.283 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
 26-06-2021 01:37:42.284 [Gauge] [INFO] 
 Total time taken: 25.342s
+26-06-2021 01:40:09.372 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\testinium\Desktop\N11-Test-HW\.gauge\screenshots
+26-06-2021 01:40:09.373 [Gauge] [DEBUG] Plugin java is already installed.
+26-06-2021 01:40:09.374 [Gauge] [DEBUG] Plugin html-report is already installed.
+26-06-2021 01:40:09.374 [Gauge] [DEBUG] Parsing started.
+26-06-2021 01:40:09.374 [Gauge] [DEBUG] Started concepts parsing.
+26-06-2021 01:40:09.379 [Gauge] [DEBUG] 14 concepts parsing completed.
+26-06-2021 01:40:09.380 [Gauge] [DEBUG] Started specifications parsing.
+26-06-2021 01:40:09.380 [Gauge] [DEBUG] 1 specifications parsing completed.
+26-06-2021 01:40:09.380 [Gauge] [DEBUG] Parsing completed.
+26-06-2021 01:40:09.397 [java] [DEBUG] ***** Printing Properties/Env Values *****
+26-06-2021 01:40:09.397 [java] [DEBUG] PATH: C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Gauge\bin;C:\Program Files\Java\jdk-16.0.1;C:\Users\testinium\AppData\Local\Android\Sdk\build-tools;C:\Users\testinium\AppData\Local\Android\Sdk\tools;C:\Users\testinium\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Gauge\bin;C:\Program Files\apache-maven-3.8.1\bin;C:\Program Files\apache-jmeter-5.4.1\bin;C:\Program Files\dotnet\;C:\Users\testinium\AppData\Local\Microsoft\WindowsApps;C:\Users\testinium\AppData\Roaming\npm;C:\Users\testinium\.dotnet\tools;C:\Users\testinium\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+26-06-2021 01:40:09.398 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-16.0.1
+26-06-2021 01:40:09.398 [java] [DEBUG] gauge_project_root: C:\Users\testinium\Desktop\N11-Test-HW
+26-06-2021 01:40:09.398 [java] [DEBUG] gauge_parallel_streams_count: 8
+26-06-2021 01:40:09.398 [java] [DEBUG] gauge_reports_dir: reports
+26-06-2021 01:40:09.398 [java] [DEBUG] overwrite_reports: true
+26-06-2021 01:40:09.398 [java] [DEBUG] logs_directory: logs
+26-06-2021 01:40:09.398 [java] [DEBUG] enable_multithreading: 
+26-06-2021 01:40:09.398 [java] [DEBUG] gauge_specs_dir: specs
+26-06-2021 01:40:09.398 [java] [DEBUG] csv_delimiter: ,
+26-06-2021 01:40:09.398 [java] [DEBUG] gauge_java_home: 
+26-06-2021 01:40:09.398 [java] [DEBUG] gauge_custom_build_path: 
+26-06-2021 01:40:09.398 [java] [DEBUG] gauge_additional_libs: libs/*
+26-06-2021 01:40:09.398 [java] [DEBUG] gauge_jvm_args: 
+26-06-2021 01:40:09.398 [java] [DEBUG] gauge_custom_compile_dir: 
+26-06-2021 01:40:09.398 [java] [DEBUG] gauge_clear_state_level: scenario
+26-06-2021 01:40:09.398 [java] [DEBUG] ***** END *****
+26-06-2021 01:40:09.754 [Gauge] [DEBUG] Checking updates...
+26-06-2021 01:40:09.758 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:40:10.227 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:40:10.419 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:40:10.622 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:40:10.839 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:40:11.546 [java] [DEBUG] classpath set to C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\charsets.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\access-bridge-64.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\cldrdata.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\dnsns.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\jaccess.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\jfxrt.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\localedata.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\nashorn.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\sunec.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\sunjce_provider.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\sunmscapi.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\sunpkcs11.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\zipfs.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\jce.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\jfr.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\jfxswt.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\jsse.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\management-agent.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\resources.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\rt.jar;C:\Users\testinium\Desktop\N11-Test-HW\target\test-classes;C:\Users\testinium\Desktop\N11-Test-HW\target\classes;C:\Users\testinium\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\testinium\.m2\repository\org\assertj\assertj-core\3.19.0\assertj-core-3.19.0.jar;C:\Users\testinium\.m2\repository\org\reflections\reflections\0.9.9\reflections-0.9.9.jar;C:\Users\testinium\.m2\repository\org\javassist\javassist\3.18.2-GA\javassist-3.18.2-GA.jar;C:\Users\testinium\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\testinium\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\testinium\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\testinium\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\testinium\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\testinium\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\testinium\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\testinium\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\testinium\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\testinium\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\testinium\.m2\repository\com\google\errorprone\error_prone_annotations\2.4.0\error_prone_annotations-2.4.0.jar;C:\Users\testinium\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\testinium\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\testinium\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\testinium\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\testinium\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\testinium\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\testinium\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\testinium\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\testinium\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\testinium\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\testinium\.m2\repository\io\github\bonigarcia\webdrivermanager\4.0.0\webdrivermanager-4.0.0.jar;C:\Users\testinium\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-lang3\3.10\commons-lang3-3.10.jar;C:\Users\testinium\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0\httpclient5-5.0.jar;C:\Users\testinium\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0\httpcore5-5.0.jar;C:\Users\testinium\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0\httpcore5-h2-5.0.jar;C:\Users\testinium\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\testinium\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\testinium\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\testinium\.m2\repository\com\opencsv\opencsv\5.4\opencsv-5.4.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\testinium\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\testinium\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\testinium\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\testinium\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\testinium\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\testinium\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar
+26-06-2021 01:40:11.559 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-16.0.1\bin\java.exe
+26-06-2021 01:40:11.559 [java] [DEBUG] running - C:\Program Files\Java\jdk-16.0.1\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+26-06-2021 01:40:11.559 [java] [DEBUG] stdout/stderr is logged to logs\21120-java.exe.out
+26-06-2021 01:40:11.674 [java] [DEBUG] multithreading is set to false
+26-06-2021 01:40:11.977 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+26-06-2021 01:40:12.373 [java] [DEBUG] gauge-java took 701milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+26-06-2021 01:40:12.374 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 701
+26-06-2021 01:40:12.374 [java] [DEBUG] starting gRPC server...
+26-06-2021 01:40:12.510 [java] [DEBUG] started gRPC server on port 52456
+26-06-2021 01:40:12.510 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52456
+26-06-2021 01:40:12.617 [Gauge] [DEBUG] Successfully made the connection with runner with port: 52456
+26-06-2021 01:40:12.617 [Gauge] [DEBUG] Validation started.
+26-06-2021 01:40:14.282 [java] [INFO] 2021-06-26 01:40:14 INFO  Reflections:169 - Reflections took 2186 ms to scan 84 urls, producing 9909 keys and 52192 values
+26-06-2021 01:40:14.282 [java] [DEBUG] Scanning packages for steps
+26-06-2021 01:40:14.292 [java] [DEBUG] Comparing 'Step.StepImplement.elementFocus' and 'Step.StepImplement.elementFocus'
+26-06-2021 01:40:14.292 [java] [DEBUG] Found {} Elementine focus ol in current project scope.
+26-06-2021 01:40:14.292 [java] [DEBUG] Comparing 'Step.StepImplement.waitByMilliSeconds' and 'Step.StepImplement.waitByMilliSeconds'
+26-06-2021 01:40:14.292 [java] [DEBUG] Found {} milisaniye bekle in current project scope.
+26-06-2021 01:40:14.292 [java] [DEBUG] Comparing 'Step.StepImplement.writeListItemsToCsv' and 'Step.StepImplement.writeListItemsToCsv'
+26-06-2021 01:40:14.292 [java] [DEBUG] Found {} harf bilgili {} magaza bilgilerini csv dosyasına yaz in current project scope.
+26-06-2021 01:40:14.292 [java] [DEBUG] Comparing 'Step.StepImplement.clickElement' and 'Step.StepImplement.clickElement'
+26-06-2021 01:40:14.292 [java] [DEBUG] Found Elementine tıkla {} in current project scope.
+26-06-2021 01:40:14.292 [java] [DEBUG] Comparing 'Step.StepImplement.sendKeys' and 'Step.StepImplement.sendKeys'
+26-06-2021 01:40:14.292 [java] [DEBUG] Found {} textini {} elemente yaz in current project scope.
+26-06-2021 01:40:14.292 [java] [DEBUG] Comparing 'Step.StepImplement.checkElementAttributeEquals' and 'Step.StepImplement.checkElementAttributeEquals'
+26-06-2021 01:40:14.292 [java] [DEBUG] Found {} elementinin {} niteliği {} değerine sahip mi in current project scope.
+26-06-2021 01:40:14.293 [java] [DEBUG] Comparing 'Step.StepImplement.randomPick' and 'Step.StepImplement.randomPick'
+26-06-2021 01:40:14.293 [java] [DEBUG] Found {} listesinden random bir element seç in current project scope.
+26-06-2021 01:40:14.293 [java] [DEBUG] Comparing 'Step.StepImplement.checkAttribute' and 'Step.StepImplement.checkAttribute'
+26-06-2021 01:40:14.293 [java] [DEBUG] Found {} elementinin text degerini getir in current project scope.
+26-06-2021 01:40:14.293 [java] [DEBUG] Comparing 'Step.StepImplement.waitBySeconds' and 'Step.StepImplement.waitBySeconds'
+26-06-2021 01:40:14.293 [java] [DEBUG] Found {} saniye bekle in current project scope.
+26-06-2021 01:40:14.293 [java] [DEBUG] Comparing 'Step.StepImplement.sendKeyToElementBACKSPACE' and 'Step.StepImplement.sendKeyToElementBACKSPACE'
+26-06-2021 01:40:14.293 [java] [DEBUG] Found Elemente BACKSPACE keyi yolla {} in current project scope.
+26-06-2021 01:40:14.293 [java] [DEBUG] Comparing 'Step.StepImplement.clickElementWithFocus' and 'Step.StepImplement.clickElementWithFocus'
+26-06-2021 01:40:14.293 [java] [DEBUG] Found {} elementine focus ile tıkla in current project scope.
+26-06-2021 01:40:14.293 [java] [DEBUG] Comparing 'Step.StepImplement.waitForElementThenClick' and 'Step.StepImplement.waitForElementThenClick'
+26-06-2021 01:40:14.293 [java] [DEBUG] Found Elementi bekle ve sonra tıkla {} in current project scope.
+26-06-2021 01:40:14.293 [java] [DEBUG] Scanning packages for hooks
+26-06-2021 01:40:14.301 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+26-06-2021 01:40:14.301 [java] [DEBUG] 	{} elementine focus ile tıkla : public void clickElementWithFocus(String key)
+26-06-2021 01:40:14.301 [java] [DEBUG] 	Elementi bekle ve sonra tıkla {} : public void waitForElementThenClick(String key)
+26-06-2021 01:40:14.301 [java] [DEBUG] 	{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)
+26-06-2021 01:40:14.301 [java] [DEBUG] 	{} listesinden random bir element seç : public void randomPick(String key)
+26-06-2021 01:40:14.301 [java] [DEBUG] 	{} Elementine focus ol : public void elementFocus(String key)
+26-06-2021 01:40:14.301 [java] [DEBUG] 	Elemente BACKSPACE keyi yolla {} : public void sendKeyToElementBACKSPACE(String key)
+26-06-2021 01:40:14.301 [java] [DEBUG] 	{} saniye bekle : public void waitBySeconds(ınt seconds)
+26-06-2021 01:40:14.301 [java] [DEBUG] 	Elementine tıkla {} : public void clickElement(String key)
+26-06-2021 01:40:14.301 [java] [DEBUG] 	{} harf bilgili {} magaza bilgilerini csv dosyasına yaz : public void writeListItemsToCsv(String letters, String key) throws IOException
+26-06-2021 01:40:14.301 [java] [DEBUG] 	{} elementinin {} niteliği {} değerine sahip mi : public void checkElementAttributeEquals(String key, String attribute, String expectedValue)
+26-06-2021 01:40:14.301 [java] [DEBUG] 	{} textini {} elemente yaz : public void sendKeys(String text, String key)
+26-06-2021 01:40:14.301 [java] [DEBUG] 	{} elementinin text degerini getir : public void checkAttribute(String key)
+26-06-2021 01:40:16.086 [java] [INFO] 2021-06-26 01:40:16 INFO  Reflections:169 - Reflections took 1767 ms to scan 84 urls, producing 9833 keys and 45136 values
+26-06-2021 01:40:16.120 [Gauge] [DEBUG] Validation completed.
+26-06-2021 01:40:16.121 [Gauge] [DEBUG] Run started
+26-06-2021 01:40:16.121 [Gauge] [DEBUG] Starting Html Report plugin
+26-06-2021 01:40:16.140 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52480
+26-06-2021 01:40:16.140 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 52480
+26-06-2021 01:40:16.140 [Gauge] [DEBUG] Initialising suite data store.
+26-06-2021 01:40:16.182 [java] [ERROR] Jun 26, 2021 1:40:16 AM org.openqa.selenium.remote.DesiredCapabilities firefox
+26-06-2021 01:40:16.182 [java] [ERROR] INFO: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+26-06-2021 01:40:16.442 [java] [ERROR] 1624660816437	geckodriver	INFO	Listening on 127.0.0.1:22855
+26-06-2021 01:40:16.550 [java] [ERROR] 1624660816547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disabl
+26-06-2021 01:40:16.550 [java] [ERROR] e-notifications" "--start-fullscreen" "-foreground" "-no-remote" "-profile" "C:\\Users\\TESTIN~1\\AppData\\Local\\Temp\\rust_mozprofileMWVNiY"
+26-06-2021 01:40:17.009 [java] [ERROR] 1624660817013	Marionette	INFO	Marionette enabled
+26-06-2021 01:40:18.325 [java] [ERROR] console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Us
+26-06-2021 01:40:18.325 [java] [ERROR] ers\\testinium\\AppData\\Local\\Temp\\rust_mozprofileMWVNiY\\search.json.mozlz4", (void 0)))
+26-06-2021 01:40:18.992 [java] [ERROR] 1624660818992	Marionette	INFO	Listening on port 52497
+26-06-2021 01:40:19.235 [java] [ERROR] 1624660819234	Marionette	WARN	TLS certificate errors will be ignored for this session
+26-06-2021 01:40:19.254 [java] [ERROR] Jun 26, 2021 1:40:19 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+26-06-2021 01:40:19.254 [java] [ERROR] INFO: Detected dialect: W3C
+26-06-2021 01:40:25.487 [java] [INFO] 2021-06-26 01:40:25 INFO  BaseTest:60 - https://www.n11.com/ BROWSERDA ACILDI.
+26-06-2021 01:40:25.495 [java] [DEBUG] Executing '{} textini {} elemente yaz' using 'class Step.StepImplement.sendKeys
+26-06-2021 01:40:25.613 [java] [INFO] 2021-06-26 01:40:25 INFO  StepImplement:166 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+26-06-2021 01:40:25.615 [java] [ERROR] JavaScript error: , line 0: uncaught exception: undefined
+26-06-2021 01:40:25.618 [java] [DEBUG] Executing '{} saniye bekle' using 'class Step.StepImplement.waitBySeconds
+26-06-2021 01:40:25.619 [java] [INFO] 2021-06-26 01:40:25 INFO  StepImplement:129 - 2 saniye bekleniyor.
+26-06-2021 01:40:27.625 [java] [DEBUG] Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick
+26-06-2021 01:40:28.652 [java] [ERROR] JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+26-06-2021 01:40:41.475 [java] [INFO] 2021-06-26 01:40:41 INFO  StepImplement:74 - Ads elementi bulundu.
+26-06-2021 01:40:41.857 [java] [INFO] 2021-06-26 01:40:41 INFO  StepImplement:158 - Ads elementine tiklandi.
+26-06-2021 01:40:41.866 [java] [DEBUG] Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement
+26-06-2021 01:40:42.338 [java] [INFO] 2021-06-26 01:40:42 INFO  BaseTest:66 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+26-06-2021 01:40:42.340 [java] [ERROR] 1624660842340	Marionette	INFO	Stopped listening on port 52497
+26-06-2021 01:40:42.456 [java] [ERROR] JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+26-06-2021 01:40:42.456 [java] [ERROR] JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+26-06-2021 01:40:42.456 [java] [ERROR] JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+26-06-2021 01:40:42.647 [java] [ERROR] ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+26-06-2021 01:40:42.993 [html-report] [DEBUG] Transformed SuiteResult to report structure
+26-06-2021 01:40:43.028 [html-report] [INFO] Successfully generated html-report to => C:\Users\testinium\Desktop\N11-Test-HW\reports\html-report\index.html
+26-06-2021 01:40:43.028 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\testinium\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+26-06-2021 01:40:43.028 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+26-06-2021 01:40:43.031 [java] [DEBUG] Killing Java runner...
+26-06-2021 01:40:43.032 [java] [DEBUG] Stopping execution pool...
+26-06-2021 01:40:43.032 [java] [DEBUG] Shutting down grpc server...
+26-06-2021 01:40:43.039 [java] [DEBUG] Runner killed gracefully.
+26-06-2021 01:40:44.007 [Gauge] [DEBUG] Runner with PID:21120 has exited
+26-06-2021 01:40:44.008 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+26-06-2021 01:40:44.008 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+26-06-2021 01:40:44.008 [Gauge] [INFO] 
+Total time taken: 26.869s
+26-06-2021 01:43:08.185 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\testinium\Desktop\N11-Test-HW\.gauge\screenshots
+26-06-2021 01:43:08.186 [Gauge] [DEBUG] Plugin java is already installed.
+26-06-2021 01:43:08.186 [Gauge] [DEBUG] Plugin html-report is already installed.
+26-06-2021 01:43:08.187 [Gauge] [DEBUG] Parsing started.
+26-06-2021 01:43:08.187 [Gauge] [DEBUG] Started concepts parsing.
+26-06-2021 01:43:08.191 [Gauge] [DEBUG] 14 concepts parsing completed.
+26-06-2021 01:43:08.191 [Gauge] [DEBUG] Started specifications parsing.
+26-06-2021 01:43:08.192 [Gauge] [DEBUG] 1 specifications parsing completed.
+26-06-2021 01:43:08.192 [Gauge] [DEBUG] Parsing completed.
+26-06-2021 01:43:08.208 [java] [DEBUG] ***** Printing Properties/Env Values *****
+26-06-2021 01:43:08.208 [java] [DEBUG] PATH: C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Gauge\bin;C:\Program Files\Java\jdk-16.0.1;C:\Users\testinium\AppData\Local\Android\Sdk\build-tools;C:\Users\testinium\AppData\Local\Android\Sdk\tools;C:\Users\testinium\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Gauge\bin;C:\Program Files\apache-maven-3.8.1\bin;C:\Program Files\apache-jmeter-5.4.1\bin;C:\Program Files\dotnet\;C:\Users\testinium\AppData\Local\Microsoft\WindowsApps;C:\Users\testinium\AppData\Roaming\npm;C:\Users\testinium\.dotnet\tools;C:\Users\testinium\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+26-06-2021 01:43:08.208 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-16.0.1
+26-06-2021 01:43:08.208 [java] [DEBUG] gauge_project_root: C:\Users\testinium\Desktop\N11-Test-HW
+26-06-2021 01:43:08.208 [java] [DEBUG] gauge_parallel_streams_count: 8
+26-06-2021 01:43:08.208 [java] [DEBUG] gauge_reports_dir: reports
+26-06-2021 01:43:08.208 [java] [DEBUG] overwrite_reports: true
+26-06-2021 01:43:08.208 [java] [DEBUG] logs_directory: logs
+26-06-2021 01:43:08.208 [java] [DEBUG] enable_multithreading: 
+26-06-2021 01:43:08.208 [java] [DEBUG] gauge_specs_dir: specs
+26-06-2021 01:43:08.208 [java] [DEBUG] csv_delimiter: ,
+26-06-2021 01:43:08.208 [java] [DEBUG] gauge_java_home: 
+26-06-2021 01:43:08.208 [java] [DEBUG] gauge_custom_build_path: 
+26-06-2021 01:43:08.208 [java] [DEBUG] gauge_additional_libs: libs/*
+26-06-2021 01:43:08.208 [java] [DEBUG] gauge_jvm_args: 
+26-06-2021 01:43:08.208 [java] [DEBUG] gauge_custom_compile_dir: 
+26-06-2021 01:43:08.208 [java] [DEBUG] gauge_clear_state_level: scenario
+26-06-2021 01:43:08.208 [java] [DEBUG] ***** END *****
+26-06-2021 01:43:08.644 [Gauge] [DEBUG] Checking updates...
+26-06-2021 01:43:08.646 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:43:09.366 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:43:09.529 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:43:09.731 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:43:09.988 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:43:10.395 [java] [DEBUG] classpath set to C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\charsets.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\access-bridge-64.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\cldrdata.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\dnsns.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\jaccess.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\jfxrt.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\localedata.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\nashorn.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\sunec.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\sunjce_provider.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\sunmscapi.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\sunpkcs11.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\zipfs.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\jce.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\jfr.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\jfxswt.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\jsse.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\management-agent.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\resources.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\rt.jar;C:\Users\testinium\Desktop\N11-Test-HW\target\test-classes;C:\Users\testinium\Desktop\N11-Test-HW\target\classes;C:\Users\testinium\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\testinium\.m2\repository\org\assertj\assertj-core\3.19.0\assertj-core-3.19.0.jar;C:\Users\testinium\.m2\repository\org\reflections\reflections\0.9.9\reflections-0.9.9.jar;C:\Users\testinium\.m2\repository\org\javassist\javassist\3.18.2-GA\javassist-3.18.2-GA.jar;C:\Users\testinium\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\testinium\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\testinium\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\testinium\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\testinium\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\testinium\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\testinium\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\testinium\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\testinium\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\testinium\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\testinium\.m2\repository\com\google\errorprone\error_prone_annotations\2.4.0\error_prone_annotations-2.4.0.jar;C:\Users\testinium\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\testinium\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\testinium\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\testinium\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\testinium\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\testinium\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\testinium\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\testinium\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\testinium\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\testinium\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\testinium\.m2\repository\io\github\bonigarcia\webdrivermanager\4.0.0\webdrivermanager-4.0.0.jar;C:\Users\testinium\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-lang3\3.10\commons-lang3-3.10.jar;C:\Users\testinium\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0\httpclient5-5.0.jar;C:\Users\testinium\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0\httpcore5-5.0.jar;C:\Users\testinium\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0\httpcore5-h2-5.0.jar;C:\Users\testinium\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\testinium\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\testinium\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\testinium\.m2\repository\com\opencsv\opencsv\5.4\opencsv-5.4.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\testinium\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\testinium\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\testinium\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\testinium\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\testinium\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\testinium\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar
+26-06-2021 01:43:10.407 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-16.0.1\bin\java.exe
+26-06-2021 01:43:10.407 [java] [DEBUG] running - C:\Program Files\Java\jdk-16.0.1\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+26-06-2021 01:43:10.407 [java] [DEBUG] stdout/stderr is logged to logs\4748-java.exe.out
+26-06-2021 01:43:10.517 [java] [DEBUG] multithreading is set to false
+26-06-2021 01:43:10.791 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+26-06-2021 01:43:11.193 [java] [DEBUG] gauge-java took 680milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+26-06-2021 01:43:11.193 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 680
+26-06-2021 01:43:11.193 [java] [DEBUG] starting gRPC server...
+26-06-2021 01:43:11.332 [java] [DEBUG] started gRPC server on port 53689
+26-06-2021 01:43:11.332 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53689
+26-06-2021 01:43:11.437 [Gauge] [DEBUG] Successfully made the connection with runner with port: 53689
+26-06-2021 01:43:11.437 [Gauge] [DEBUG] Validation started.
+26-06-2021 01:43:13.071 [java] [INFO] 2021-06-26 01:43:13 INFO  Reflections:169 - Reflections took 2167 ms to scan 84 urls, producing 9909 keys and 52192 values
+26-06-2021 01:43:13.071 [java] [DEBUG] Scanning packages for steps
+26-06-2021 01:43:13.076 [java] [DEBUG] Comparing 'Step.StepImplement.elementFocus' and 'Step.StepImplement.elementFocus'
+26-06-2021 01:43:13.081 [java] [DEBUG] Found {} Elementine focus ol in current project scope.
+26-06-2021 01:43:13.081 [java] [DEBUG] Comparing 'Step.StepImplement.waitByMilliSeconds' and 'Step.StepImplement.waitByMilliSeconds'
+26-06-2021 01:43:13.081 [java] [DEBUG] Found {} milisaniye bekle in current project scope.
+26-06-2021 01:43:13.081 [java] [DEBUG] Comparing 'Step.StepImplement.writeListItemsToCsv' and 'Step.StepImplement.writeListItemsToCsv'
+26-06-2021 01:43:13.081 [java] [DEBUG] Found {} harf bilgili {} magaza bilgilerini csv dosyasına yaz in current project scope.
+26-06-2021 01:43:13.081 [java] [DEBUG] Comparing 'Step.StepImplement.clickElement' and 'Step.StepImplement.clickElement'
+26-06-2021 01:43:13.081 [java] [DEBUG] Found Elementine tıkla {} in current project scope.
+26-06-2021 01:43:13.081 [java] [DEBUG] Comparing 'Step.StepImplement.sendKeys' and 'Step.StepImplement.sendKeys'
+26-06-2021 01:43:13.081 [java] [DEBUG] Found {} textini {} elemente yaz in current project scope.
+26-06-2021 01:43:13.081 [java] [DEBUG] Comparing 'Step.StepImplement.checkElementAttributeEquals' and 'Step.StepImplement.checkElementAttributeEquals'
+26-06-2021 01:43:13.081 [java] [DEBUG] Found {} elementinin {} niteliği {} değerine sahip mi in current project scope.
+26-06-2021 01:43:13.082 [java] [DEBUG] Comparing 'Step.StepImplement.randomPick' and 'Step.StepImplement.randomPick'
+26-06-2021 01:43:13.082 [java] [DEBUG] Found {} listesinden random bir element seç in current project scope.
+26-06-2021 01:43:13.082 [java] [DEBUG] Comparing 'Step.StepImplement.checkAttribute' and 'Step.StepImplement.checkAttribute'
+26-06-2021 01:43:13.082 [java] [DEBUG] Found {} elementinin text degerini getir in current project scope.
+26-06-2021 01:43:13.082 [java] [DEBUG] Comparing 'Step.StepImplement.waitBySeconds' and 'Step.StepImplement.waitBySeconds'
+26-06-2021 01:43:13.082 [java] [DEBUG] Found {} saniye bekle in current project scope.
+26-06-2021 01:43:13.082 [java] [DEBUG] Comparing 'Step.StepImplement.sendKeyToElementBACKSPACE' and 'Step.StepImplement.sendKeyToElementBACKSPACE'
+26-06-2021 01:43:13.082 [java] [DEBUG] Found Elemente BACKSPACE keyi yolla {} in current project scope.
+26-06-2021 01:43:13.082 [java] [DEBUG] Comparing 'Step.StepImplement.clickElementWithFocus' and 'Step.StepImplement.clickElementWithFocus'
+26-06-2021 01:43:13.082 [java] [DEBUG] Found {} elementine focus ile tıkla in current project scope.
+26-06-2021 01:43:13.082 [java] [DEBUG] Comparing 'Step.StepImplement.waitForElementThenClick' and 'Step.StepImplement.waitForElementThenClick'
+26-06-2021 01:43:13.082 [java] [DEBUG] Found Elementi bekle ve sonra tıkla {} in current project scope.
+26-06-2021 01:43:13.082 [java] [DEBUG] Scanning packages for hooks
+26-06-2021 01:43:13.089 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+26-06-2021 01:43:13.089 [java] [DEBUG] 	{} elementine focus ile tıkla : public void clickElementWithFocus(String key)
+26-06-2021 01:43:13.089 [java] [DEBUG] 	Elementi bekle ve sonra tıkla {} : public void waitForElementThenClick(String key)
+26-06-2021 01:43:13.089 [java] [DEBUG] 	{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)
+26-06-2021 01:43:13.089 [java] [DEBUG] 	{} listesinden random bir element seç : public void randomPick(String key)
+26-06-2021 01:43:13.089 [java] [DEBUG] 	{} Elementine focus ol : public void elementFocus(String key)
+26-06-2021 01:43:13.089 [java] [DEBUG] 	Elemente BACKSPACE keyi yolla {} : public void sendKeyToElementBACKSPACE(String key)
+26-06-2021 01:43:13.089 [java] [DEBUG] 	{} saniye bekle : public void waitBySeconds(ınt seconds)
+26-06-2021 01:43:13.089 [java] [DEBUG] 	Elementine tıkla {} : public void clickElement(String key)
+26-06-2021 01:43:13.089 [java] [DEBUG] 	{} harf bilgili {} magaza bilgilerini csv dosyasına yaz : public void writeListItemsToCsv(String letters, String key) throws IOException
+26-06-2021 01:43:13.089 [java] [DEBUG] 	{} elementinin {} niteliği {} değerine sahip mi : public void checkElementAttributeEquals(String key, String attribute, String expectedValue)
+26-06-2021 01:43:13.089 [java] [DEBUG] 	{} textini {} elemente yaz : public void sendKeys(String text, String key)
+26-06-2021 01:43:13.089 [java] [DEBUG] 	{} elementinin text degerini getir : public void checkAttribute(String key)
+26-06-2021 01:43:14.870 [java] [INFO] 2021-06-26 01:43:14 INFO  Reflections:169 - Reflections took 1775 ms to scan 84 urls, producing 9833 keys and 45136 values
+26-06-2021 01:43:14.905 [Gauge] [DEBUG] Validation completed.
+26-06-2021 01:43:14.905 [Gauge] [DEBUG] Run started
+26-06-2021 01:43:14.906 [Gauge] [DEBUG] Starting Html Report plugin
+26-06-2021 01:43:14.924 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53728
+26-06-2021 01:43:14.924 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 53728
+26-06-2021 01:43:14.924 [Gauge] [DEBUG] Initialising suite data store.
+26-06-2021 01:43:14.969 [java] [ERROR] Jun 26, 2021 1:43:14 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+26-06-2021 01:43:14.969 [java] [ERROR] INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+26-06-2021 01:43:15.229 [java] [ERROR] Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 16141
+26-06-2021 01:43:15.229 [java] [ERROR] Only local connections are allowed.
+26-06-2021 01:43:15.229 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+26-06-2021 01:43:15.233 [java] [ERROR] ChromeDriver was started successfully.
+26-06-2021 01:43:15.996 [java] [ERROR] Jun 26, 2021 1:43:15 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+26-06-2021 01:43:15.997 [java] [ERROR] INFO: Detected dialect: W3C
+26-06-2021 01:43:20.794 [java] [INFO] 2021-06-26 01:43:20 INFO  BaseTest:36 - https://www.n11.com/ BROWSERDA ACILDI.
+26-06-2021 01:43:20.801 [java] [DEBUG] Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement
+26-06-2021 01:43:21.051 [java] [INFO] 2021-06-26 01:43:21 INFO  StepImplement:158 - LocationAllow elementine tiklandi.
+26-06-2021 01:43:21.058 [java] [DEBUG] Executing '{} Elementine focus ol' using 'class Step.StepImplement.elementFocus
+26-06-2021 01:43:21.235 [java] [INFO] 2021-06-26 01:43:21 INFO  StepImplement:256 - Magazalar elementine focus olundu.
+26-06-2021 01:43:21.239 [java] [DEBUG] Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement
+26-06-2021 01:43:21.426 [java] [INFO] 2021-06-26 01:43:21 INFO  StepImplement:158 - Magazalar elementine tiklandi.
+26-06-2021 01:43:21.434 [java] [DEBUG] Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick
+26-06-2021 01:43:21.454 [java] [INFO] 2021-06-26 01:43:21 INFO  StepImplement:74 - MagazalariGor elementi bulundu.
+26-06-2021 01:43:23.590 [java] [INFO] 2021-06-26 01:43:23 INFO  StepImplement:158 - MagazalariGor elementine tiklandi.
+26-06-2021 01:43:23.594 [java] [DEBUG] Executing '{} saniye bekle' using 'class Step.StepImplement.waitBySeconds
+26-06-2021 01:43:23.595 [java] [INFO] 2021-06-26 01:43:23 INFO  StepImplement:129 - 2 saniye bekleniyor.
+26-06-2021 01:43:25.613 [java] [DEBUG] Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick
+26-06-2021 01:43:37.098 [java] [INFO] 2021-06-26 01:43:37 INFO  StepImplement:74 - Ads elementi bulundu.
+26-06-2021 01:43:37.416 [java] [INFO] 2021-06-26 01:43:37 INFO  StepImplement:158 - Ads elementine tiklandi.
+26-06-2021 01:43:37.423 [java] [DEBUG] Executing '{} listesinden random bir element seç' using 'class Step.StepImplement.randomPick
+26-06-2021 01:43:40.375 [java] [DEBUG] Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick
+26-06-2021 01:43:40.426 [java] [INFO] 2021-06-26 01:43:40 INFO  StepImplement:74 - MagazaYorumları elementi bulundu.
+26-06-2021 01:43:41.510 [java] [INFO] 2021-06-26 01:43:41 INFO  StepImplement:158 - MagazaYorumları elementine tiklandi.
+26-06-2021 01:43:41.517 [java] [DEBUG] Executing '{} elementinin text degerini getir' using 'class Step.StepImplement.checkAttribute
+26-06-2021 01:44:39.610 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\testinium\Desktop\N11-Test-HW\.gauge\screenshots
+26-06-2021 01:44:39.612 [Gauge] [DEBUG] Plugin java is already installed.
+26-06-2021 01:44:39.612 [Gauge] [DEBUG] Plugin html-report is already installed.
+26-06-2021 01:44:39.613 [Gauge] [DEBUG] Parsing started.
+26-06-2021 01:44:39.613 [Gauge] [DEBUG] Started concepts parsing.
+26-06-2021 01:44:39.617 [Gauge] [DEBUG] 14 concepts parsing completed.
+26-06-2021 01:44:39.618 [Gauge] [DEBUG] Started specifications parsing.
+26-06-2021 01:44:39.618 [Gauge] [DEBUG] 1 specifications parsing completed.
+26-06-2021 01:44:39.618 [Gauge] [DEBUG] Parsing completed.
+26-06-2021 01:44:39.633 [java] [DEBUG] ***** Printing Properties/Env Values *****
+26-06-2021 01:44:39.633 [java] [DEBUG] PATH: C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Gauge\bin;C:\Program Files\Java\jdk-16.0.1;C:\Users\testinium\AppData\Local\Android\Sdk\build-tools;C:\Users\testinium\AppData\Local\Android\Sdk\tools;C:\Users\testinium\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Gauge\bin;C:\Program Files\apache-maven-3.8.1\bin;C:\Program Files\apache-jmeter-5.4.1\bin;C:\Program Files\dotnet\;C:\Users\testinium\AppData\Local\Microsoft\WindowsApps;C:\Users\testinium\AppData\Roaming\npm;C:\Users\testinium\.dotnet\tools;C:\Users\testinium\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+26-06-2021 01:44:39.633 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-16.0.1
+26-06-2021 01:44:39.633 [java] [DEBUG] gauge_project_root: C:\Users\testinium\Desktop\N11-Test-HW
+26-06-2021 01:44:39.633 [java] [DEBUG] gauge_parallel_streams_count: 8
+26-06-2021 01:44:39.633 [java] [DEBUG] gauge_reports_dir: reports
+26-06-2021 01:44:39.633 [java] [DEBUG] overwrite_reports: true
+26-06-2021 01:44:39.633 [java] [DEBUG] logs_directory: logs
+26-06-2021 01:44:39.633 [java] [DEBUG] enable_multithreading: 
+26-06-2021 01:44:39.633 [java] [DEBUG] gauge_specs_dir: specs
+26-06-2021 01:44:39.633 [java] [DEBUG] csv_delimiter: ,
+26-06-2021 01:44:39.633 [java] [DEBUG] gauge_java_home: 
+26-06-2021 01:44:39.633 [java] [DEBUG] gauge_custom_build_path: 
+26-06-2021 01:44:39.633 [java] [DEBUG] gauge_additional_libs: libs/*
+26-06-2021 01:44:39.633 [java] [DEBUG] gauge_jvm_args: 
+26-06-2021 01:44:39.633 [java] [DEBUG] gauge_custom_compile_dir: 
+26-06-2021 01:44:39.633 [java] [DEBUG] gauge_clear_state_level: scenario
+26-06-2021 01:44:39.633 [java] [DEBUG] ***** END *****
+26-06-2021 01:44:40.277 [Gauge] [DEBUG] Checking updates...
+26-06-2021 01:44:40.278 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:44:40.953 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:44:41.124 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:44:41.317 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:44:41.661 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+26-06-2021 01:44:41.875 [java] [DEBUG] classpath set to C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\charsets.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\access-bridge-64.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\cldrdata.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\dnsns.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\jaccess.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\jfxrt.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\localedata.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\nashorn.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\sunec.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\sunjce_provider.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\sunmscapi.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\sunpkcs11.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\ext\zipfs.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\jce.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\jfr.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\jfxswt.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\jsse.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\management-agent.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\resources.jar;C:\Users\testinium\.jdks\corretto-1.8.0_292\jre\lib\rt.jar;C:\Users\testinium\Desktop\N11-Test-HW\target\test-classes;C:\Users\testinium\Desktop\N11-Test-HW\target\classes;C:\Users\testinium\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\testinium\.m2\repository\org\assertj\assertj-core\3.19.0\assertj-core-3.19.0.jar;C:\Users\testinium\.m2\repository\org\reflections\reflections\0.9.9\reflections-0.9.9.jar;C:\Users\testinium\.m2\repository\org\javassist\javassist\3.18.2-GA\javassist-3.18.2-GA.jar;C:\Users\testinium\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\testinium\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\testinium\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\testinium\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\testinium\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\testinium\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\testinium\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\testinium\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\testinium\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\testinium\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\testinium\.m2\repository\com\google\errorprone\error_prone_annotations\2.4.0\error_prone_annotations-2.4.0.jar;C:\Users\testinium\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\testinium\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\testinium\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\testinium\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\testinium\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\testinium\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\testinium\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\testinium\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\testinium\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\testinium\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\testinium\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\testinium\.m2\repository\io\github\bonigarcia\webdrivermanager\4.0.0\webdrivermanager-4.0.0.jar;C:\Users\testinium\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-lang3\3.10\commons-lang3-3.10.jar;C:\Users\testinium\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0\httpclient5-5.0.jar;C:\Users\testinium\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0\httpcore5-5.0.jar;C:\Users\testinium\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0\httpcore5-h2-5.0.jar;C:\Users\testinium\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\testinium\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\testinium\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\testinium\.m2\repository\com\opencsv\opencsv\5.4\opencsv-5.4.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-text\1.9\commons-text-1.9.jar;C:\Users\testinium\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\testinium\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\testinium\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\testinium\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\testinium\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\testinium\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\testinium\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\testinium\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar
+26-06-2021 01:44:41.889 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-16.0.1\bin\java.exe
+26-06-2021 01:44:41.890 [java] [DEBUG] running - C:\Program Files\Java\jdk-16.0.1\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+26-06-2021 01:44:41.890 [java] [DEBUG] stdout/stderr is logged to logs\22216-java.exe.out
+26-06-2021 01:44:42.003 [java] [DEBUG] multithreading is set to false
+26-06-2021 01:44:42.299 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+26-06-2021 01:44:42.715 [java] [DEBUG] gauge-java took 709milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+26-06-2021 01:44:42.715 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 709
+26-06-2021 01:44:42.715 [java] [DEBUG] starting gRPC server...
+26-06-2021 01:44:42.868 [java] [DEBUG] started gRPC server on port 61549
+26-06-2021 01:44:42.868 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61549
+26-06-2021 01:44:42.979 [Gauge] [DEBUG] Successfully made the connection with runner with port: 61549
+26-06-2021 01:44:42.979 [Gauge] [DEBUG] Validation started.
+26-06-2021 01:44:44.606 [java] [INFO] 2021-06-26 01:44:44 INFO  Reflections:169 - Reflections took 2183 ms to scan 84 urls, producing 9909 keys and 52192 values
+26-06-2021 01:44:44.606 [java] [DEBUG] Scanning packages for steps
+26-06-2021 01:44:44.616 [java] [DEBUG] Comparing 'Step.StepImplement.elementFocus' and 'Step.StepImplement.elementFocus'
+26-06-2021 01:44:44.616 [java] [DEBUG] Found {} Elementine focus ol in current project scope.
+26-06-2021 01:44:44.617 [java] [DEBUG] Comparing 'Step.StepImplement.waitByMilliSeconds' and 'Step.StepImplement.waitByMilliSeconds'
+26-06-2021 01:44:44.617 [java] [DEBUG] Found {} milisaniye bekle in current project scope.
+26-06-2021 01:44:44.617 [java] [DEBUG] Comparing 'Step.StepImplement.writeListItemsToCsv' and 'Step.StepImplement.writeListItemsToCsv'
+26-06-2021 01:44:44.617 [java] [DEBUG] Found {} harf bilgili {} magaza bilgilerini csv dosyasına yaz in current project scope.
+26-06-2021 01:44:44.617 [java] [DEBUG] Comparing 'Step.StepImplement.clickElement' and 'Step.StepImplement.clickElement'
+26-06-2021 01:44:44.617 [java] [DEBUG] Found Elementine tıkla {} in current project scope.
+26-06-2021 01:44:44.617 [java] [DEBUG] Comparing 'Step.StepImplement.sendKeys' and 'Step.StepImplement.sendKeys'
+26-06-2021 01:44:44.617 [java] [DEBUG] Found {} textini {} elemente yaz in current project scope.
+26-06-2021 01:44:44.617 [java] [DEBUG] Comparing 'Step.StepImplement.checkElementAttributeEquals' and 'Step.StepImplement.checkElementAttributeEquals'
+26-06-2021 01:44:44.617 [java] [DEBUG] Found {} elementinin {} niteliği {} değerine sahip mi in current project scope.
+26-06-2021 01:44:44.617 [java] [DEBUG] Comparing 'Step.StepImplement.randomPick' and 'Step.StepImplement.randomPick'
+26-06-2021 01:44:44.617 [java] [DEBUG] Found {} listesinden random bir element seç in current project scope.
+26-06-2021 01:44:44.617 [java] [DEBUG] Comparing 'Step.StepImplement.checkAttribute' and 'Step.StepImplement.checkAttribute'
+26-06-2021 01:44:44.617 [java] [DEBUG] Found {} elementinin text degerini getir in current project scope.
+26-06-2021 01:44:44.618 [java] [DEBUG] Comparing 'Step.StepImplement.waitBySeconds' and 'Step.StepImplement.waitBySeconds'
+26-06-2021 01:44:44.618 [java] [DEBUG] Found {} saniye bekle in current project scope.
+26-06-2021 01:44:44.618 [java] [DEBUG] Comparing 'Step.StepImplement.sendKeyToElementBACKSPACE' and 'Step.StepImplement.sendKeyToElementBACKSPACE'
+26-06-2021 01:44:44.618 [java] [DEBUG] Found Elemente BACKSPACE keyi yolla {} in current project scope.
+26-06-2021 01:44:44.618 [java] [DEBUG] Comparing 'Step.StepImplement.clickElementWithFocus' and 'Step.StepImplement.clickElementWithFocus'
+26-06-2021 01:44:44.618 [java] [DEBUG] Found {} elementine focus ile tıkla in current project scope.
+26-06-2021 01:44:44.618 [java] [DEBUG] Comparing 'Step.StepImplement.waitForElementThenClick' and 'Step.StepImplement.waitForElementThenClick'
+26-06-2021 01:44:44.618 [java] [DEBUG] Found Elementi bekle ve sonra tıkla {} in current project scope.
+26-06-2021 01:44:44.618 [java] [DEBUG] Scanning packages for hooks
+26-06-2021 01:44:44.624 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+26-06-2021 01:44:44.624 [java] [DEBUG] 	{} elementine focus ile tıkla : public void clickElementWithFocus(String key)
+26-06-2021 01:44:44.624 [java] [DEBUG] 	Elementi bekle ve sonra tıkla {} : public void waitForElementThenClick(String key)
+26-06-2021 01:44:44.624 [java] [DEBUG] 	{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)
+26-06-2021 01:44:44.624 [java] [DEBUG] 	{} listesinden random bir element seç : public void randomPick(String key)
+26-06-2021 01:44:44.624 [java] [DEBUG] 	{} Elementine focus ol : public void elementFocus(String key)
+26-06-2021 01:44:44.624 [java] [DEBUG] 	Elemente BACKSPACE keyi yolla {} : public void sendKeyToElementBACKSPACE(String key)
+26-06-2021 01:44:44.624 [java] [DEBUG] 	{} saniye bekle : public void waitBySeconds(ınt seconds)
+26-06-2021 01:44:44.624 [java] [DEBUG] 	Elementine tıkla {} : public void clickElement(String key)
+26-06-2021 01:44:44.624 [java] [DEBUG] 	{} harf bilgili {} magaza bilgilerini csv dosyasına yaz : public void writeListItemsToCsv(String letters, String key) throws IOException
+26-06-2021 01:44:44.624 [java] [DEBUG] 	{} elementinin {} niteliği {} değerine sahip mi : public void checkElementAttributeEquals(String key, String attribute, String expectedValue)
+26-06-2021 01:44:44.624 [java] [DEBUG] 	{} textini {} elemente yaz : public void sendKeys(String text, String key)
+26-06-2021 01:44:44.624 [java] [DEBUG] 	{} elementinin text degerini getir : public void checkAttribute(String key)
+26-06-2021 01:44:46.415 [java] [INFO] 2021-06-26 01:44:46 INFO  Reflections:169 - Reflections took 1775 ms to scan 84 urls, producing 9833 keys and 45136 values
+26-06-2021 01:44:46.452 [Gauge] [DEBUG] Validation completed.
+26-06-2021 01:44:46.452 [Gauge] [DEBUG] Run started
+26-06-2021 01:44:46.453 [Gauge] [DEBUG] Starting Html Report plugin
+26-06-2021 01:44:46.465 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61593
+26-06-2021 01:44:46.466 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 61593
+26-06-2021 01:44:46.466 [Gauge] [DEBUG] Initialising suite data store.
+26-06-2021 01:44:46.512 [java] [ERROR] Jun 26, 2021 1:44:46 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+26-06-2021 01:44:46.512 [java] [ERROR] INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+26-06-2021 01:44:46.790 [java] [ERROR] Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 43998
+26-06-2021 01:44:46.790 [java] [ERROR] Only local connections are allowed.
+26-06-2021 01:44:46.790 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+26-06-2021 01:44:46.794 [java] [ERROR] ChromeDriver was started successfully.
+26-06-2021 01:44:47.563 [java] [ERROR] Jun 26, 2021 1:44:47 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+26-06-2021 01:44:47.563 [java] [ERROR] INFO: Detected dialect: W3C
+26-06-2021 01:44:52.448 [java] [INFO] 2021-06-26 01:44:52 INFO  BaseTest:36 - https://www.n11.com/ BROWSERDA ACILDI.
+26-06-2021 01:44:52.455 [java] [DEBUG] Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement
+26-06-2021 01:44:52.716 [java] [INFO] 2021-06-26 01:44:52 INFO  StepImplement:158 - LocationAllow elementine tiklandi.
+26-06-2021 01:44:52.725 [java] [DEBUG] Executing '{} Elementine focus ol' using 'class Step.StepImplement.elementFocus
+26-06-2021 01:44:52.876 [java] [INFO] 2021-06-26 01:44:52 INFO  StepImplement:256 - Magazalar elementine focus olundu.
+26-06-2021 01:44:52.882 [java] [DEBUG] Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement
+26-06-2021 01:44:53.082 [java] [INFO] 2021-06-26 01:44:53 INFO  StepImplement:158 - Magazalar elementine tiklandi.
+26-06-2021 01:44:53.090 [java] [DEBUG] Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick
+26-06-2021 01:44:53.113 [java] [INFO] 2021-06-26 01:44:53 INFO  StepImplement:74 - MagazalariGor elementi bulundu.
+26-06-2021 01:44:55.275 [java] [INFO] 2021-06-26 01:44:55 INFO  StepImplement:158 - MagazalariGor elementine tiklandi.
+26-06-2021 01:44:55.280 [java] [DEBUG] Executing '{} saniye bekle' using 'class Step.StepImplement.waitBySeconds
+26-06-2021 01:44:55.280 [java] [INFO] 2021-06-26 01:44:55 INFO  StepImplement:129 - 2 saniye bekleniyor.
+26-06-2021 01:44:57.297 [java] [DEBUG] Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick
+26-06-2021 01:45:08.776 [java] [INFO] 2021-06-26 01:45:08 INFO  StepImplement:74 - Ads elementi bulundu.
+26-06-2021 01:45:09.056 [java] [INFO] 2021-06-26 01:45:09 INFO  StepImplement:158 - Ads elementine tiklandi.
+26-06-2021 01:45:09.065 [java] [DEBUG] Executing '{} listesinden random bir element seç' using 'class Step.StepImplement.randomPick
+26-06-2021 01:45:11.809 [java] [DEBUG] Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick
+26-06-2021 01:45:11.828 [java] [INFO] 2021-06-26 01:45:11 INFO  StepImplement:74 - MagazaYorumları elementi bulundu.
+26-06-2021 01:45:12.964 [java] [INFO] 2021-06-26 01:45:12 INFO  StepImplement:158 - MagazaYorumları elementine tiklandi.
+26-06-2021 01:45:12.967 [java] [DEBUG] Executing '{} elementinin text degerini getir' using 'class Step.StepImplement.checkAttribute
+26-06-2021 01:45:13.008 [java] [INFO] 2021-06-26 01:45:13 INFO  StepImplement:200 - YorumVarMi elementinin : 8 değerlendirmede 7 yorum yazılmış
+26-06-2021 01:45:13.012 [java] [INFO] 2021-06-26 01:45:13 INFO  BaseTest:42 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+26-06-2021 01:45:13.211 [html-report] [DEBUG] Transformed SuiteResult to report structure
+26-06-2021 01:45:13.233 [html-report] [INFO] Successfully generated html-report to => C:\Users\testinium\Desktop\N11-Test-HW\reports\html-report\index.html
+26-06-2021 01:45:13.233 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\testinium\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+26-06-2021 01:45:13.233 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+26-06-2021 01:45:13.235 [java] [DEBUG] Killing Java runner...
+26-06-2021 01:45:13.236 [java] [DEBUG] Stopping execution pool...
+26-06-2021 01:45:13.236 [java] [DEBUG] Shutting down grpc server...
+26-06-2021 01:45:13.241 [java] [DEBUG] Runner killed gracefully.
+26-06-2021 01:45:14.015 [Gauge] [DEBUG] Runner with PID:22216 has exited
+26-06-2021 01:45:14.015 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+26-06-2021 01:45:14.015 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+26-06-2021 01:45:14.015 [Gauge] [INFO] 
+Total time taken: 26.755s

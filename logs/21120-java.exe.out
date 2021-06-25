@@ -1,0 +1,81 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 701milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 701"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 52456"}
+{"logLevel":"info","message":"Listening on port:52456"}
+2021-06-26 01:40:14 INFO  Reflections:169 - Reflections took 2186 ms to scan 84 urls, producing 9909 keys and 52192 values 
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.elementFocus' and 'Step.StepImplement.elementFocus'"}
+{"logLevel":"debug","message":"Found {} Elementine focus ol in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.waitByMilliSeconds' and 'Step.StepImplement.waitByMilliSeconds'"}
+{"logLevel":"debug","message":"Found {} milisaniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.writeListItemsToCsv' and 'Step.StepImplement.writeListItemsToCsv'"}
+{"logLevel":"debug","message":"Found {} harf bilgili {} magaza bilgilerini csv dosyasına yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.clickElement' and 'Step.StepImplement.clickElement'"}
+{"logLevel":"debug","message":"Found Elementine tıkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.sendKeys' and 'Step.StepImplement.sendKeys'"}
+{"logLevel":"debug","message":"Found {} textini {} elemente yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.checkElementAttributeEquals' and 'Step.StepImplement.checkElementAttributeEquals'"}
+{"logLevel":"debug","message":"Found {} elementinin {} niteliği {} değerine sahip mi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.randomPick' and 'Step.StepImplement.randomPick'"}
+{"logLevel":"debug","message":"Found {} listesinden random bir element seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.checkAttribute' and 'Step.StepImplement.checkAttribute'"}
+{"logLevel":"debug","message":"Found {} elementinin text degerini getir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.waitBySeconds' and 'Step.StepImplement.waitBySeconds'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.sendKeyToElementBACKSPACE' and 'Step.StepImplement.sendKeyToElementBACKSPACE'"}
+{"logLevel":"debug","message":"Found Elemente BACKSPACE keyi yolla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.clickElementWithFocus' and 'Step.StepImplement.clickElementWithFocus'"}
+{"logLevel":"debug","message":"Found {} elementine focus ile tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.waitForElementThenClick' and 'Step.StepImplement.waitForElementThenClick'"}
+{"logLevel":"debug","message":"Found Elementi bekle ve sonra tıkla {} in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t{} elementine focus ile tıkla : public void clickElementWithFocus(String key)"}
+{"logLevel":"debug","message":"\tElementi bekle ve sonra tıkla {} : public void waitForElementThenClick(String key)"}
+{"logLevel":"debug","message":"\t{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)"}
+{"logLevel":"debug","message":"\t{} listesinden random bir element seç : public void randomPick(String key)"}
+{"logLevel":"debug","message":"\t{} Elementine focus ol : public void elementFocus(String key)"}
+{"logLevel":"debug","message":"\tElemente BACKSPACE keyi yolla {} : public void sendKeyToElementBACKSPACE(String key)"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySeconds(ınt seconds)"}
+{"logLevel":"debug","message":"\tElementine tıkla {} : public void clickElement(String key)"}
+{"logLevel":"debug","message":"\t{} harf bilgili {} magaza bilgilerini csv dosyasına yaz : public void writeListItemsToCsv(String letters, String key) throws IOException"}
+{"logLevel":"debug","message":"\t{} elementinin {} niteliği {} değerine sahip mi : public void checkElementAttributeEquals(String key, String attribute, String expectedValue)"}
+{"logLevel":"debug","message":"\t{} textini {} elemente yaz : public void sendKeys(String text, String key)"}
+{"logLevel":"debug","message":"\t{} elementinin text degerini getir : public void checkAttribute(String key)"}
+2021-06-26 01:40:16 INFO  Reflections:169 - Reflections took 1767 ms to scan 84 urls, producing 9833 keys and 45136 values 
+Jun 26, 2021 1:40:16 AM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFO: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+1624660816437	geckodriver	INFO	Listening on 127.0.0.1:22855
+1624660816547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "--start-fullscreen" "-foreground" "-no-remote" "-profile" "C:\\Users\\TESTIN~1\\AppData\\Local\\Temp\\rust_mozprofileMWVNiY"
+1624660817013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\testinium\\AppData\\Local\\Temp\\rust_mozprofileMWVNiY\\search.json.mozlz4", (void 0)))
+1624660818992	Marionette	INFO	Listening on port 52497
+1624660819234	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jun 26, 2021 1:40:19 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+2021-06-26 01:40:25 INFO  BaseTest:60 - https://www.n11.com/ BROWSERDA ACILDI.
+{"logLevel":"debug","message":"Executing '{} textini {} elemente yaz' using 'class Step.StepImplement.sendKeys"}
+2021-06-26 01:40:25 INFO  StepImplement:166 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+JavaScript error: , line 0: uncaught exception: undefined
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class Step.StepImplement.waitBySeconds"}
+2021-06-26 01:40:25 INFO  StepImplement:129 - 2 saniye bekleniyor.
+{"logLevel":"debug","message":"Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick"}
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+2021-06-26 01:40:41 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-26 01:40:41 INFO  StepImplement:158 - Ads elementine tiklandi.
+{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement"}
+2021-06-26 01:40:42 INFO  BaseTest:66 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+1624660842340	Marionette	INFO	Stopped listening on port 52497
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
