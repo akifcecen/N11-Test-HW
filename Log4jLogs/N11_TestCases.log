@@ -916,3 +916,279 @@
 2021-06-25 11:58:49 INFO  StepImplement:216 - C Harfli magazalar yaziliyor
 2021-06-25 11:59:35 INFO  StepImplement:121 - 2 saniye bekleniyor.
 2021-06-25 11:59:44 INFO  StepImplement:216 - D Harfli magazalar yaziliyor
+2021-06-25 12:10:57 INFO  Reflections:169 - Reflections took 2175 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:10:59 INFO  Reflections:169 - Reflections took 1768 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:11:04 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:11:09 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 12:11:09 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:11:20 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 12:11:21 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 12:11:21 INFO  StepImplement:74 - ThrdBrand elementi bulundu.
+2021-06-25 12:11:22 INFO  StepImplement:150 - ThrdBrand elementine tiklandi.
+2021-06-25 12:11:22 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:11:24 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 12:16:10 INFO  Reflections:169 - Reflections took 2208 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:16:12 INFO  Reflections:169 - Reflections took 1813 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:16:17 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:16:17 INFO  StepImplement:150 - LocationAllow elementine tiklandi.
+2021-06-25 12:16:17 INFO  StepImplement:247 - Magazalar elementine focus olundu.
+2021-06-25 12:16:17 INFO  StepImplement:150 - Magazalar elementine tiklandi.
+2021-06-25 12:16:17 INFO  StepImplement:74 - MagazalariGor elementi bulundu.
+2021-06-25 12:16:19 INFO  StepImplement:150 - MagazalariGor elementine tiklandi.
+2021-06-25 12:16:19 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:16:33 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 12:16:33 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 12:16:36 INFO  StepImplement:74 - MagazaYorumları elementi bulundu.
+2021-06-25 12:16:37 INFO  StepImplement:150 - MagazaYorumları elementine tiklandi.
+2021-06-25 12:19:49 INFO  Reflections:169 - Reflections took 2176 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:19:51 INFO  Reflections:169 - Reflections took 1770 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:19:56 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:19:56 INFO  StepImplement:150 - LocationAllow elementine tiklandi.
+2021-06-25 12:19:57 INFO  StepImplement:248 - Magazalar elementine focus olundu.
+2021-06-25 12:19:57 INFO  StepImplement:150 - Magazalar elementine tiklandi.
+2021-06-25 12:19:57 INFO  StepImplement:74 - MagazalariGor elementi bulundu.
+2021-06-25 12:19:58 INFO  StepImplement:150 - MagazalariGor elementine tiklandi.
+2021-06-25 12:19:58 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:20:12 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 12:20:13 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 12:20:16 INFO  StepImplement:74 - MagazaYorumları elementi bulundu.
+2021-06-25 12:20:18 INFO  StepImplement:150 - MagazaYorumları elementine tiklandi.
+2021-06-25 12:20:18 INFO  StepImplement:191 - YorumVarMi elementinine : 3 değerlendirmede 1 yorum yazılmış
+2021-06-25 12:20:18 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 12:24:00 INFO  Reflections:169 - Reflections took 2209 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:24:02 INFO  Reflections:169 - Reflections took 1835 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:24:07 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:24:09 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 12:24:09 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:24:23 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 12:24:24 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 12:24:24 INFO  StepImplement:74 - ThrdBrand elementi bulundu.
+2021-06-25 12:24:25 INFO  StepImplement:150 - ThrdBrand elementine tiklandi.
+2021-06-25 12:24:25 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:24:27 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 12:25:18 INFO  Reflections:169 - Reflections took 2156 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:25:20 INFO  Reflections:169 - Reflections took 1770 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:25:25 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:25:27 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 12:25:27 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:26:29 INFO  StepImplement:131 - 100 milisaniye bekleniyor.
+2021-06-25 12:27:30 INFO  StepImplement:131 - 100 milisaniye bekleniyor.
+2021-06-25 12:31:35 INFO  Reflections:169 - Reflections took 2361 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:31:37 INFO  Reflections:169 - Reflections took 1831 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:31:43 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:31:43 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 12:31:43 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:32:45 INFO  StepImplement:131 - 100 milisaniye bekleniyor.
+2021-06-25 12:40:45 INFO  Reflections:169 - Reflections took 2174 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:40:47 INFO  Reflections:169 - Reflections took 1757 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:40:52 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:40:53 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 12:40:54 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:40:56 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:41:07 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 12:41:08 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 12:41:08 INFO  StepImplement:74 - ThrdBrand elementi bulundu.
+2021-06-25 12:41:09 INFO  StepImplement:150 - ThrdBrand elementine tiklandi.
+2021-06-25 12:41:37 INFO  StepImplement:150 - RandomProductlist elementine tiklandi.
+2021-06-25 12:41:37 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:41:41 INFO  StepImplement:74 - Quantity elementi bulundu.
+2021-06-25 12:41:42 INFO  StepImplement:150 - Quantity elementine tiklandi.
+2021-06-25 12:41:42 INFO  StepImplement:121 - 1 saniye bekleniyor.
+2021-06-25 12:42:44 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 12:43:51 INFO  Reflections:169 - Reflections took 2249 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:43:52 INFO  Reflections:169 - Reflections took 1816 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:43:58 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:44:00 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 12:44:00 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:44:02 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:44:13 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 12:44:13 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 12:44:13 INFO  StepImplement:74 - ThrdBrand elementi bulundu.
+2021-06-25 12:44:14 INFO  StepImplement:150 - ThrdBrand elementine tiklandi.
+2021-06-25 12:44:36 INFO  StepImplement:150 - RandomProductlist elementine tiklandi.
+2021-06-25 12:44:36 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:44:38 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:44:41 INFO  StepImplement:74 - PopUp2 elementi bulundu.
+2021-06-25 12:44:41 INFO  StepImplement:150 - PopUp2 elementine tiklandi.
+2021-06-25 12:44:41 INFO  StepImplement:74 - Quantity elementi bulundu.
+2021-06-25 12:44:42 INFO  StepImplement:150 - Quantity elementine tiklandi.
+2021-06-25 12:45:42 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 12:47:18 INFO  Reflections:169 - Reflections took 2133 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:47:20 INFO  Reflections:169 - Reflections took 1767 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:47:27 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:47:31 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 12:47:31 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:47:33 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:48:31 INFO  Reflections:169 - Reflections took 2195 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:48:33 INFO  Reflections:169 - Reflections took 1814 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:48:39 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:48:41 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 12:48:41 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:48:55 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 12:48:55 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 12:48:55 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 12:49:47 INFO  Reflections:169 - Reflections took 2165 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:49:49 INFO  Reflections:169 - Reflections took 1761 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:49:55 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:49:57 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 12:49:57 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:50:11 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 12:50:12 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 12:50:12 INFO  StepImplement:260 - ThrdBrand elementine focus ile tiklandi.
+2021-06-25 12:50:21 INFO  StepImplement:150 - RandomProductlist elementine tiklandi.
+2021-06-25 12:50:21 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:50:23 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:50:26 INFO  StepImplement:74 - PopUp2 elementi bulundu.
+2021-06-25 12:50:26 INFO  StepImplement:150 - PopUp2 elementine tiklandi.
+2021-06-25 12:50:26 INFO  StepImplement:74 - Quantity elementi bulundu.
+2021-06-25 12:50:27 INFO  StepImplement:150 - Quantity elementine tiklandi.
+2021-06-25 12:50:27 INFO  StepImplement:150 - AddtoBasket elementine tiklandi.
+2021-06-25 12:50:28 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 12:53:16 INFO  Reflections:169 - Reflections took 2216 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:53:18 INFO  Reflections:169 - Reflections took 1782 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:53:23 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:53:25 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 12:53:25 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:53:39 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 12:53:39 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 12:53:41 INFO  StepImplement:150 - ThrdBrand elementine tiklandi.
+2021-06-25 12:53:42 INFO  StepImplement:150 - RandomProductlist elementine tiklandi.
+2021-06-25 12:53:42 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:53:44 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:53:47 INFO  StepImplement:74 - PopUp2 elementi bulundu.
+2021-06-25 12:53:47 INFO  StepImplement:150 - PopUp2 elementine tiklandi.
+2021-06-25 12:53:47 INFO  StepImplement:74 - Quantity elementi bulundu.
+2021-06-25 12:53:48 INFO  StepImplement:150 - Quantity elementine tiklandi.
+2021-06-25 12:53:48 INFO  StepImplement:74 - AddtoBasket elementi bulundu.
+2021-06-25 12:53:48 INFO  StepImplement:150 - AddtoBasket elementine tiklandi.
+2021-06-25 12:53:48 INFO  StepImplement:74 - Sepetim elementi bulundu.
+2021-06-25 12:53:50 INFO  StepImplement:150 - Sepetim elementine tiklandi.
+2021-06-25 12:53:50 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:54:53 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 12:55:42 INFO  Reflections:169 - Reflections took 2146 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:55:43 INFO  Reflections:169 - Reflections took 1758 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:55:48 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:55:53 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 12:55:53 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:56:04 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 12:56:04 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 12:56:08 INFO  StepImplement:150 - ThrdBrand elementine tiklandi.
+2021-06-25 12:56:08 INFO  StepImplement:150 - RandomProductlist elementine tiklandi.
+2021-06-25 12:56:08 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:56:10 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:56:12 INFO  StepImplement:74 - PopUp2 elementi bulundu.
+2021-06-25 12:56:13 INFO  StepImplement:150 - PopUp2 elementine tiklandi.
+2021-06-25 12:56:13 INFO  StepImplement:74 - Quantity elementi bulundu.
+2021-06-25 12:56:14 INFO  StepImplement:150 - Quantity elementine tiklandi.
+2021-06-25 12:56:14 INFO  StepImplement:74 - AddtoBasket elementi bulundu.
+2021-06-25 12:56:14 INFO  StepImplement:150 - AddtoBasket elementine tiklandi.
+2021-06-25 12:56:14 INFO  StepImplement:74 - Sepetim elementi bulundu.
+2021-06-25 12:56:14 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 12:56:50 INFO  Reflections:169 - Reflections took 2237 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 12:56:51 INFO  Reflections:169 - Reflections took 1752 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 12:56:56 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 12:56:58 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 12:56:58 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:57:12 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 12:57:12 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 12:57:15 INFO  StepImplement:150 - ThrdBrand elementine tiklandi.
+2021-06-25 12:57:15 INFO  StepImplement:150 - RandomProductlist elementine tiklandi.
+2021-06-25 12:57:15 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:57:17 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:57:21 INFO  StepImplement:74 - PopUp2 elementi bulundu.
+2021-06-25 12:57:21 INFO  StepImplement:150 - PopUp2 elementine tiklandi.
+2021-06-25 12:57:21 INFO  StepImplement:74 - Quantity elementi bulundu.
+2021-06-25 12:57:22 INFO  StepImplement:150 - Quantity elementine tiklandi.
+2021-06-25 12:57:22 INFO  StepImplement:74 - AddtoBasket elementi bulundu.
+2021-06-25 12:57:22 INFO  StepImplement:150 - AddtoBasket elementine tiklandi.
+2021-06-25 12:57:22 INFO  StepImplement:74 - Sepetim elementi bulundu.
+2021-06-25 12:57:24 INFO  StepImplement:150 - Sepetim elementine tiklandi.
+2021-06-25 12:57:24 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 12:57:26 INFO  StepImplement:74 - tamam elementi bulundu.
+2021-06-25 12:57:26 INFO  StepImplement:150 - tamam elementine tiklandi.
+2021-06-25 12:58:27 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 13:00:36 INFO  Reflections:169 - Reflections took 2171 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 13:00:38 INFO  Reflections:169 - Reflections took 1814 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 13:00:43 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 13:00:45 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 13:00:45 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:00:59 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 13:00:59 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 13:01:01 INFO  StepImplement:150 - ThrdBrand elementine tiklandi.
+2021-06-25 13:01:02 INFO  StepImplement:150 - RandomProductlist elementine tiklandi.
+2021-06-25 13:01:02 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:01:04 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:01:07 INFO  StepImplement:74 - PopUp2 elementi bulundu.
+2021-06-25 13:01:08 INFO  StepImplement:150 - PopUp2 elementine tiklandi.
+2021-06-25 13:01:08 INFO  StepImplement:74 - Quantity elementi bulundu.
+2021-06-25 13:01:09 INFO  StepImplement:150 - Quantity elementine tiklandi.
+2021-06-25 13:01:09 INFO  StepImplement:74 - AddtoBasket elementi bulundu.
+2021-06-25 13:01:09 INFO  StepImplement:150 - AddtoBasket elementine tiklandi.
+2021-06-25 13:01:09 INFO  StepImplement:74 - Sepetim elementi bulundu.
+2021-06-25 13:01:11 INFO  StepImplement:150 - Sepetim elementine tiklandi.
+2021-06-25 13:01:11 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:01:13 INFO  StepImplement:74 - tamam elementi bulundu.
+2021-06-25 13:01:13 INFO  StepImplement:150 - tamam elementine tiklandi.
+2021-06-25 13:01:13 INFO  StepImplement:176 - checkQuantity elementinin value niteliği 2 değerine sahip.
+2021-06-25 13:01:13 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 13:01:50 INFO  Reflections:169 - Reflections took 2164 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 13:01:52 INFO  Reflections:169 - Reflections took 1785 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 13:01:57 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 13:01:59 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 13:01:59 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:02:13 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 13:02:13 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 13:02:16 INFO  StepImplement:150 - ThrdBrand elementine tiklandi.
+2021-06-25 13:02:16 INFO  StepImplement:150 - RandomProductlist elementine tiklandi.
+2021-06-25 13:02:16 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:02:18 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:02:22 INFO  StepImplement:74 - PopUp2 elementi bulundu.
+2021-06-25 13:02:22 INFO  StepImplement:150 - PopUp2 elementine tiklandi.
+2021-06-25 13:02:22 INFO  StepImplement:74 - Quantity elementi bulundu.
+2021-06-25 13:02:23 INFO  StepImplement:150 - Quantity elementine tiklandi.
+2021-06-25 13:02:23 INFO  StepImplement:74 - AddtoBasket elementi bulundu.
+2021-06-25 13:02:23 INFO  StepImplement:150 - AddtoBasket elementine tiklandi.
+2021-06-25 13:02:23 INFO  StepImplement:74 - Sepetim elementi bulundu.
+2021-06-25 13:02:23 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 13:03:01 INFO  Reflections:169 - Reflections took 2200 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 13:03:03 INFO  Reflections:169 - Reflections took 1820 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 13:03:09 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 13:03:11 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 13:03:11 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:03:25 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 13:03:25 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 13:03:27 INFO  StepImplement:150 - ThrdBrand elementine tiklandi.
+2021-06-25 13:03:27 INFO  StepImplement:150 - RandomProductlist elementine tiklandi.
+2021-06-25 13:03:27 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:03:29 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:03:32 INFO  StepImplement:74 - PopUp2 elementi bulundu.
+2021-06-25 13:03:32 INFO  StepImplement:150 - PopUp2 elementine tiklandi.
+2021-06-25 13:03:32 INFO  StepImplement:74 - Quantity elementi bulundu.
+2021-06-25 13:03:33 INFO  StepImplement:150 - Quantity elementine tiklandi.
+2021-06-25 13:03:33 INFO  StepImplement:74 - AddtoBasket elementi bulundu.
+2021-06-25 13:03:33 INFO  StepImplement:150 - AddtoBasket elementine tiklandi.
+2021-06-25 13:03:34 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-25 13:04:16 INFO  Reflections:169 - Reflections took 2176 ms to scan 84 urls, producing 9909 keys and 52195 values 
+2021-06-25 13:04:18 INFO  Reflections:169 - Reflections took 1765 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-25 13:04:23 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-25 13:04:24 INFO  StepImplement:158 - Search elementine Bilgisayar texti yazildi ve enter tuşuna basildi.
+2021-06-25 13:04:24 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:04:39 INFO  StepImplement:74 - Ads elementi bulundu.
+2021-06-25 13:04:39 INFO  StepImplement:150 - Ads elementine tiklandi.
+2021-06-25 13:04:41 INFO  StepImplement:150 - ThrdBrand elementine tiklandi.
+2021-06-25 13:04:42 INFO  StepImplement:150 - RandomProductlist elementine tiklandi.
+2021-06-25 13:04:42 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:04:44 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:04:46 INFO  StepImplement:74 - PopUp2 elementi bulundu.
+2021-06-25 13:04:47 INFO  StepImplement:150 - PopUp2 elementine tiklandi.
+2021-06-25 13:04:47 INFO  StepImplement:74 - Quantity elementi bulundu.
+2021-06-25 13:04:48 INFO  StepImplement:150 - Quantity elementine tiklandi.
+2021-06-25 13:04:48 INFO  StepImplement:74 - AddtoBasket elementi bulundu.
+2021-06-25 13:04:48 INFO  StepImplement:150 - AddtoBasket elementine tiklandi.
+2021-06-25 13:04:48 INFO  StepImplement:121 - 2 saniye bekleniyor.
+2021-06-25 13:04:50 INFO  StepImplement:74 - Sepetim elementi bulundu.
+2021-06-25 13:04:52 INFO  StepImplement:150 - Sepetim elementine tiklandi.
+2021-06-25 13:04:52 INFO  StepImplement:74 - tamam elementi bulundu.
+2021-06-25 13:04:52 INFO  StepImplement:150 - tamam elementine tiklandi.
+2021-06-25 13:04:52 INFO  StepImplement:176 - checkQuantity elementinin value niteligi 2 degerine sahip.
+2021-06-25 13:04:52 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..

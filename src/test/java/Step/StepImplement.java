@@ -174,7 +174,7 @@ public class StepImplement extends BaseTest {
             actualValue = element.getAttribute(attribute).trim();
             if (actualValue.equals(expectedValue)) {
                 logger.info(
-                        key + " elementinin " + attribute + " niteliği " + expectedValue + " değerine sahip.");
+                        key + " elementinin " + attribute + " niteligi " + expectedValue + " degerine sahip.");
                 return;
             }
             loopCount++;
@@ -185,17 +185,22 @@ public class StepImplement extends BaseTest {
 
     @Step({"<key> elementinin text degerini getir"})
     public void checkAttribute(String key){
+
             WebElement element = findElement(key);
-
-            logger.info(key + " elementinine : " + element.getText());
-
+            if(element.isDisplayed())
+                logger.info(key + " elementinine : " + element.getText());
+            else logger.info(key+ " elementinde hiç yorum yok");
     }
     @Step({"<key> listesinden random bir element seç"})
     public void randomPick(String key) {
-        List<WebElement> elements = findElements(key);
+        List<WebElement> productElems = findElements(key);
+
+        int maxProducts = productElems.size();
+        // get random number
         Random random = new Random();
-        int index = random.nextInt(elements.size());
-        elements.get(index).click();
+        int randomProduct = random.nextInt(maxProducts);
+        // Select the list item
+        productElems.get(randomProduct).click();
     }
 
     @Step({"<url> adresine git"})
@@ -232,7 +237,7 @@ public void saveElementAttributeCsv(List<WebElement> list,char letter ) throws I
     stringBuilder.append(chr+ " HARFLI MAGAZALAR-------------------------------------------------------------------------\n");
     while (it.hasNext()){
         store=it.next().getText();
-        stringBuilder.append(store).append(",\t");
+        stringBuilder.append(store).append(",\n");
     }
     bufferedWriter.write(stringBuilder.toString());
     bufferedWriter.flush();

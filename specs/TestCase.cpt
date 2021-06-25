@@ -36,23 +36,24 @@ This is a concept file with following syntax for each concept.
 
 # Marka listesinden üçüncü marka seçildi
 * Elementi bekle ve sonra tıkla "Ads"
-* Elementi bekle ve sonra tıkla "ThrdBrand"
-* "2" saniye bekle
+* Elementine tıkla "ThrdBrand"
 
 # Listelenen ürünlenden random bir ürün seçildi
-* "RandomProductlist" listesinden random bir element seç
+* Elementine tıkla "RandomProductlist"
 * "2" saniye bekle
 
 # Ürün miktarı textboxu temizlenip 2 arttırıldı
-* Elemente BACKSPACE keyi yolla "Quantity"
-* "2" textini "Quantity" elemente yaz
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "PopUp2"
+* Elementi bekle ve sonra tıkla "Quantity"
 
 # Sepete Ekle butonuna tıklandı
-* Elementine tıkla "AddtoBasket"
+* Elementi bekle ve sonra tıkla "AddtoBasket"
 
 # Sepetim butonuyla sepetim safyasına geç
-* Elementine tıkla "Sepetim"
 * "2" saniye bekle
+* Elementi bekle ve sonra tıkla "Sepetim"
 
 # Sepetteki ürün sayısının 2 olduğunu kontrol et
+*Elementi bekle ve sonra tıkla "tamam"
 * "checkQuantity" elementinin "value" niteliği "2" değerine sahip mi

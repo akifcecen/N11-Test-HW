@@ -63,22 +63,22 @@
   },
   {
     "key": "ThrdBrand",
-    "value": "//*[@id=\"contentListing\"]/div/div/div[1]/section[4]/div[2]/div[3]",
-    "type": "xpath"
+    "value": "brand-m-Acer",
+    "type": "id"
   },
   {
     "key": "RandomProductlist",
-    "value": "//*[@id=\"view\"]/ul/li/div[@class='columnContent']",
+    "value": "//*[@id=\"p-478567190\"]/div[1]/a/img",
     "type": "xpath"
   },
   {
     "key": "Quantity",
-    "value": "quantity",
-    "type": "id"
+    "value": "//*[@id=\"unf-p-id\"]/div/div[3]/div[1]/div[1]/div[2]/div[4]/div[2]/div[1]/div/div/span[1]",
+    "type": "xpath"
   },
   {
     "key": "AddtoBasket",
-    "value": "//*[@id=\"contentProDetail\"]/div/div[3]/div[2]/div[3]/div[3]/a[2]",
+    "value": "//*[@id=\"unf-p-id\"]/div/div[3]/div[1]/div[1]/div[2]/div[4]/div[2]/div[2]/a",
     "type": "xpath"
   },
   {
@@ -88,7 +88,17 @@
   },
   {
     "key": "checkQuantity",
-    "value": "//*[@id=\"quantity_127000785275\"]",
+    "value": "quantity_126968008208",
+    "type": "id"
+  },
+  {
+    "key": "PopUp2",
+    "value": "/html/body/div[2]/span",
+    "type": "xpath"
+  },
+  {
+    "key": "tamam",
+    "value": "//*[@id=\"userKvkkModal\"]/div/div[2]/span",
     "type": "xpath"
   }
 ]
