@@ -13004,3 +13004,26 @@ Total time taken: 24.754s
 25-06-2021 13:36:07.878 [java] [INFO] 2021-06-25 13:36:07 INFO  StepImplement:150 - MagazalariGor elementine tiklandi.
 25-06-2021 13:36:07.884 [java] [DEBUG] Executing '{} saniye bekle' using 'class Step.StepImplement.waitBySeconds
 25-06-2021 13:36:07.884 [java] [INFO] 2021-06-25 13:36:07 INFO  StepImplement:121 - 2 saniye bekleniyor.
+25-06-2021 13:36:09.894 [java] [DEBUG] Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick
+25-06-2021 13:36:22.073 [java] [INFO] 2021-06-25 13:36:22 INFO  StepImplement:74 - Ads elementi bulundu.
+25-06-2021 13:36:22.404 [java] [INFO] 2021-06-25 13:36:22 INFO  StepImplement:150 - Ads elementine tiklandi.
+25-06-2021 13:36:22.413 [java] [DEBUG] Executing '{} listesinden random bir element seç' using 'class Step.StepImplement.randomPick
+25-06-2021 13:36:24.028 [java] [DEBUG] Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick
+25-06-2021 13:36:24.217 [java] [INFO] 2021-06-25 13:36:24 INFO  StepImplement:74 - MagazaYorumları elementi bulundu.
+25-06-2021 13:36:25.159 [java] [INFO] 2021-06-25 13:36:25 INFO  StepImplement:150 - MagazaYorumları elementine tiklandi.
+25-06-2021 13:36:25.163 [java] [DEBUG] Executing '{} elementinin text degerini getir' using 'class Step.StepImplement.checkAttribute
+25-06-2021 13:36:25.224 [java] [INFO] 2021-06-25 13:36:25 INFO  StepImplement:196 - YorumVarMi elementinin : 8 değerlendirmede 5 yorum yazılmış
+25-06-2021 13:36:25.228 [java] [INFO] 2021-06-25 13:36:25 INFO  BaseTest:67 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+25-06-2021 13:36:25.367 [html-report] [DEBUG] Transformed SuiteResult to report structure
+25-06-2021 13:36:25.380 [html-report] [INFO] Successfully generated html-report to => C:\Users\testinium\Desktop\N11-Test-HW\reports\html-report\index.html
+25-06-2021 13:36:25.380 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\testinium\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+25-06-2021 13:36:25.380 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+25-06-2021 13:36:25.382 [java] [DEBUG] Killing Java runner...
+25-06-2021 13:36:25.383 [java] [DEBUG] Stopping execution pool...
+25-06-2021 13:36:25.383 [java] [DEBUG] Shutting down grpc server...
+25-06-2021 13:36:25.390 [java] [DEBUG] Runner killed gracefully.
+25-06-2021 13:36:26.025 [Gauge] [DEBUG] Runner with PID:18352 has exited
+25-06-2021 13:36:26.025 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+25-06-2021 13:36:26.025 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+25-06-2021 13:36:26.025 [Gauge] [INFO] 
+Total time taken: 24.571s
