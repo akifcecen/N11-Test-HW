@@ -33,8 +33,7 @@ public class BaseTest {
         String platform ="windows";
         String browser  ="chrome";
 
-        if (StringUtils.isEmpty(System.getenv("key"))){
-            if ("windows".equalsIgnoreCase(platform)){
+        
                 if ("chrome".equalsIgnoreCase(browser)){
                     ChromeOptions options = new ChromeOptions();
                     capabilities = DesiredCapabilities.chrome();
@@ -65,39 +64,6 @@ public class BaseTest {
                 }
 
 
-            }else if("mac".equalsIgnoreCase(platform)){
-                if ("chrome".equalsIgnoreCase(browser)){
-                    ChromeOptions options = new ChromeOptions();
-                    capabilities = DesiredCapabilities.chrome();
-                    Map<String, Object> prefs = new HashMap<String, Object>();
-                    prefs.put("profile.default_content_setting_values.notifications", 2);
-                    options.setExperimentalOption("prefs", prefs);
-                    options.addArguments("--kiosk");
-                    options.addArguments("--disable-notifications");
-                    options.addArguments("--start-fullscreen");
-                    System.setProperty("webdriver.chrome.driver","WebDriver/chromedriver");
-                    driver = new ChromeDriver(options);
-                    driver.manage().timeouts().pageLoadTimeout(60,TimeUnit.SECONDS);
-                }else if ("firefox".equalsIgnoreCase(browser)){
-                    FirefoxOptions options = new FirefoxOptions();
-                    capabilities = DesiredCapabilities.firefox();
-                    Map<String, Object> prefs = new HashMap<String, Object>();
-                    prefs.put("profile.default_content_setting_values.notifications", 2);
-
-                    options.addArguments("--kiosk");
-                    options.addArguments("--disable-notifications");
-                    options.addArguments("--start-fullscreen");
-                    FirefoxProfile profile = new FirefoxProfile();
-                    capabilities.setCapability(FirefoxDriver.PROFILE,profile);
-                    capabilities.setCapability("marionette",true);
-                    System.setProperty("webdriver.gecko.driver","WebDriver/geckodriver");
-                    driver = new FirefoxDriver(options);
-                    driver.manage().timeouts().pageLoadTimeout(60,TimeUnit.SECONDS);
-                }
-
-            }
-
-        }
 
         driver.manage().window().fullscreen();
         driver.get(baseUrl);
