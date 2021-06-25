@@ -1,0 +1,94 @@
+[
+  {
+    "key": "DahaSonra",
+    "value": "//div[@class=\"dn-slide-buttons horizontal\"]/button[contains(text(),\"Daha Sonra\")]",
+    "type": "xpath"
+  },
+  {
+    "key": "MagazalariGor",
+    "value": "//a[@title='Mağazaları Gör']",
+    "type": "xpath"
+  },
+  {
+    "key": "TumMagazalarButonu",
+    "value": "//h3[text()=\"Tüm Mağazalar\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "MagazaLetter",
+    "value": "//div[@class=\"letters\"]/span[@data-has-seller]",
+    "type": "xpath"
+  },
+  {
+    "key": "TumMagazalar",
+    "value": "//div[@class=\"tabPanel allSellers\"]/div[@class=\"sellerListHolder\"]/ul/li",
+    "type": "xpath"
+  },
+  {
+    "key": "LocationAllow",
+    "value": "myLocation-close-info",
+    "type": "id"
+  },
+  {
+    "key": "Magazalar",
+    "value": "//span[@title='Mağazalar']",
+    "type": "xpath"
+  }
+,
+  {
+    "key": "Ads",
+    "value": "/html/body/div[3]/span",
+    "type": "xpath"
+  }
+,
+  {
+    "key": "MagazaYorumları",
+    "value": "//a[@title='Mağaza Yorumları']",
+    "type": "xpath"
+  },
+  {
+    "key": "YorumVarMi",
+    "value": "//*[@id=\"sellerReviewsTab\"]/div/div[2]/span",
+    "type": "xpath"
+  },
+  {
+  "key": "RandomMagazaContent",
+  "value": "//div[@class=\"tabPanel\"]/div[@class='sellerListHolder']/ul/li",
+  "type": "xpath"
+},
+  {
+    "key": "Search",
+    "value": "searchData",
+    "type": "id"
+  },
+  {
+    "key": "ThrdBrand",
+    "value": "//*[@id=\"contentListing\"]/div/div/div[1]/section[4]/div[2]/div[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "RandomProductlist",
+    "value": "//*[@id=\"view\"]/ul/li/div[@class='columnContent']",
+    "type": "xpath"
+  },
+  {
+    "key": "Quantity",
+    "value": "quantity",
+    "type": "id"
+  },
+  {
+    "key": "AddtoBasket",
+    "value": "//*[@id=\"contentProDetail\"]/div/div[3]/div[2]/div[3]/div[3]/a[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepetim",
+    "value": "//*[@id=\"header\"]/div/div/div[2]/div[2]/div[4]/a",
+    "type": "xpath"
+  },
+  {
+    "key": "checkQuantity",
+    "value": "//*[@id=\"quantity_127000785275\"]",
+    "type": "xpath"
+  }
+]

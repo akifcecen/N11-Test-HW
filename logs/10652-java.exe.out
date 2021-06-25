@@ -1,0 +1,54 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 675milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 675"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 60532"}
+{"logLevel":"info","message":"Listening on port:60532"}
+2021-06-25 03:19:44 INFO  Reflections:169 - Reflections took 2141 ms to scan 84 urls, producing 9909 keys and 52188 values 
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.waitByMilliSeconds' and 'Step.StepImplement.waitByMilliSeconds'"}
+{"logLevel":"debug","message":"Found {} milisaniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.writeListItemsToCsv' and 'Step.StepImplement.writeListItemsToCsv'"}
+{"logLevel":"debug","message":"Found {} linked listesininin {} listelerinin element bilgilerini csv dosyasına yaz. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.clickElement' and 'Step.StepImplement.clickElement'"}
+{"logLevel":"debug","message":"Found Elementine tıkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.ssendKeys' and 'Step.StepImplement.ssendKeys'"}
+{"logLevel":"debug","message":"Found {} textini {} elemente yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.checkElementAttributeEquals' and 'Step.StepImplement.checkElementAttributeEquals'"}
+{"logLevel":"debug","message":"Found {} elementinin {} niteliği {} değerine sahip mi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.randomPick' and 'Step.StepImplement.randomPick'"}
+{"logLevel":"debug","message":"Found {} listesinden random bir element seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.waitBySeconds' and 'Step.StepImplement.waitBySeconds'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.waitForElementThenClick' and 'Step.StepImplement.waitForElementThenClick'"}
+{"logLevel":"debug","message":"Found Elementi bekle ve sonra tıkla {} in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t{} linked listesininin {} listelerinin element bilgilerini csv dosyasına yaz. : public void writeListItemsToCsv(String listParrent, String listChild) throws IOException"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySeconds(ınt seconds)"}
+{"logLevel":"debug","message":"\tElementi bekle ve sonra tıkla {} : public void waitForElementThenClick(String key)"}
+{"logLevel":"debug","message":"\t{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)"}
+{"logLevel":"debug","message":"\t{} listesinden random bir element seç : public void randomPick(String key)"}
+{"logLevel":"debug","message":"\tElementine tıkla {} : public void clickElement(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin {} niteliği {} değerine sahip mi : public void checkElementAttributeEquals(String key, String attribute, String expectedValue)"}
+{"logLevel":"debug","message":"\t{} textini {} elemente yaz : public void ssendKeys(String text, String key)"}
+2021-06-25 03:19:46 INFO  Reflections:169 - Reflections took 1756 ms to scan 84 urls, producing 9833 keys and 45136 values 
+Jun 25, 2021 3:19:46 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 16388
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jun 25, 2021 3:19:47 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+2021-06-25 03:19:51 INFO  BaseTest:104 - https://www.n11.com/ BROWSERDA AÇILDI.
+{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement"}
+2021-06-25 03:19:51 INFO  StepImplement:118 - 500 milisaniye bekleniyor.
+2021-06-25 03:19:52 INFO  StepImplement:140 - LocationAllow elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement"}
+2021-06-25 03:19:52 INFO  BaseTest:110 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

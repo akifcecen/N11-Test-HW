@@ -1,0 +1,58 @@
+Created by akifcecen on 6/24/2021
+
+This is a concept file with following syntax for each concept.
+------------------------------------------------------------TESTCASE1----------------------------------------------------------------------------------
+# N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır
+* Elementine tıkla "LocationAllow"
+
+# Mağazalar/Mağazaları Gör butonuna tıklanır
+* "Magazalar" Elementine focus ol
+* Elementine tıkla "Magazalar"
+* Elementi bekle ve sonra tıkla "MagazalariGor"
+* "2" saniye bekle
+
+# Tüm mağazalar sayfası tıklanır
+* Elementi bekle ve sonra tıkla "Ads"
+* Elementine tıkla "TumMagazalarButonu"
+
+
+# Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır
+* "MagazaLetter" harf bilgili "TumMagazalar" magaza bilgilerini csv dosyasına yaz
+
+# Random bir magaza secilir
+*  Elementi bekle ve sonra tıkla "Ads"
+* "RandomMagazaContent" listesinden random bir element seç
+
+# Magaza Yorumları açılır
+*Elementi bekle ve sonra tıkla "MagazaYorumları"
+
+# Magaza Yorum kontrolu yapilir
+* "YorumVarMi" elementinin text degerini getir
+
+--------------------------------------------------------------TESTCASE2----------------------------------------------------------------------------
+# N11.com sayfası açılır ve bilgisayar kelimesi aratılır
+* "Bilgisayar" textini "Search" elemente yaz
+* "2" saniye bekle
+
+# Marka listesinden üçüncü marka seçildi
+* Elementi bekle ve sonra tıkla "Ads"
+* Elementi bekle ve sonra tıkla "ThrdBrand"
+* "2" saniye bekle
+
+# Listelenen ürünlenden random bir ürün seçildi
+* "RandomProductlist" listesinden random bir element seç
+* "2" saniye bekle
+
+# Ürün miktarı textboxu temizlenip 2 arttırıldı
+* Elemente BACKSPACE keyi yolla "Quantity"
+* "2" textini "Quantity" elemente yaz
+
+# Sepete Ekle butonuna tıklandı
+* Elementine tıkla "AddtoBasket"
+
+# Sepetim butonuyla sepetim safyasına geç
+* Elementine tıkla "Sepetim"
+* "2" saniye bekle
+
+# Sepetteki ürün sayısının 2 olduğunu kontrol et
+* "checkQuantity" elementinin "value" niteliği "2" değerine sahip mi
