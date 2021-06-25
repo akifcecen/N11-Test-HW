@@ -99,5 +99,3 @@ Rasgele ürün seçilip sepet kontrolü yapma
 ```
 <br />
 
-## Copyright
-Copyright 2021 AkifCecen.
