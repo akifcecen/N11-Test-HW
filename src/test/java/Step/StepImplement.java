@@ -182,13 +182,18 @@ public class StepImplement extends BaseTest {
         }
         Assert.fail("Elementin Attribute değeri beklenen değerle aynı değil");
     }
+    protected boolean isElementExist(By by){
+        return !driver.findElements(by).isEmpty();
+    }
+
 
     @Step({"<key> elementinin text degerini getir"})
     public void checkAttribute(String key){
 
             WebElement element = findElement(key);
+
             if(element.isDisplayed())
-                logger.info(key + " elementinine : " + element.getText());
+                logger.info(key + " elementinin : " + element.getText());
             else logger.info(key+ " elementinde hiç yorum yok");
     }
     @Step({"<key> listesinden random bir element seç"})

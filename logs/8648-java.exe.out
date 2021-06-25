@@ -1,11 +1,11 @@
 {"logLevel":"debug","message":"multithreading is set to false"}
 {"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
-{"logLevel":"debug","message":"gauge-java took 686milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
-{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 686"}
+{"logLevel":"debug","message":"gauge-java took 716milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 716"}
 {"logLevel":"debug","message":"starting gRPC server..."}
-{"logLevel":"debug","message":"started gRPC server on port 51685"}
-{"logLevel":"info","message":"Listening on port:51685"}
-2021-06-25 13:25:44 INFO  Reflections:169 - Reflections took 2207 ms to scan 84 urls, producing 9909 keys and 52195 values 
+{"logLevel":"debug","message":"started gRPC server on port 51539"}
+{"logLevel":"info","message":"Listening on port:51539"}
+2021-06-25 13:25:29 INFO  Reflections:169 - Reflections took 2264 ms to scan 84 urls, producing 9909 keys and 52195 values 
 {"logLevel":"debug","message":"Scanning packages for steps"}
 {"logLevel":"debug","message":"Comparing 'Step.StepImplement.waitByMilliSeconds' and 'Step.StepImplement.waitByMilliSeconds'"}
 {"logLevel":"debug","message":"Found {} milisaniye bekle in current project scope."}
@@ -54,32 +54,3 @@
 {"logLevel":"debug","message":"\t{} textini {} elemente yaz : public void sendKeys(String text, String key)"}
 {"logLevel":"debug","message":"\t{} elementinin text degerini getir : public void checkAttribute(String key)"}
 {"logLevel":"debug","message":"\tJavascript ile xpath tıkla {} : public void javascriptClickerWithXpath(String xpath)"}
-2021-06-25 13:25:46 INFO  Reflections:169 - Reflections took 1760 ms to scan 84 urls, producing 9833 keys and 45136 values 
-Jun 25, 2021 1:25:46 PM org.openqa.selenium.remote.DesiredCapabilities chrome
-INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 48175
-Only local connections are allowed.
-Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
-ChromeDriver was started successfully.
-Jun 25, 2021 1:25:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-2021-06-25 13:25:50 INFO  BaseTest:61 - https://www.n11.com/ BROWSERDA ACILDI.
-{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement"}
-2021-06-25 13:25:51 INFO  StepImplement:150 - LocationAllow elementine tiklandi.
-{"logLevel":"debug","message":"Executing '{} Elementine focus ol' using 'class Step.StepImplement.elementFocus"}
-2021-06-25 13:25:51 INFO  StepImplement:252 - Magazalar elementine focus olundu.
-{"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement"}
-2021-06-25 13:25:51 INFO  StepImplement:150 - Magazalar elementine tiklandi.
-{"logLevel":"debug","message":"Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick"}
-2021-06-25 13:25:51 INFO  StepImplement:74 - MagazalariGor elementi bulundu.
-2021-06-25 13:25:52 INFO  StepImplement:150 - MagazalariGor elementine tiklandi.
-{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class Step.StepImplement.waitBySeconds"}
-2021-06-25 13:25:52 INFO  StepImplement:121 - 2 saniye bekleniyor.
-{"logLevel":"debug","message":"Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick"}
-2021-06-25 13:26:06 INFO  StepImplement:74 - Ads elementi bulundu.
-2021-06-25 13:26:07 INFO  StepImplement:150 - Ads elementine tiklandi.
-{"logLevel":"debug","message":"Executing '{} listesinden random bir element seç' using 'class Step.StepImplement.randomPick"}
-{"logLevel":"debug","message":"Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick"}
-2021-06-25 13:26:09 INFO  StepImplement:74 - MagazaYorumları elementi bulundu.
-2021-06-25 13:26:10 INFO  StepImplement:150 - MagazaYorumları elementine tiklandi.
-{"logLevel":"debug","message":"Executing '{} elementinin text degerini getir' using 'class Step.StepImplement.checkAttribute"}
