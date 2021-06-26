@@ -62,3 +62,33 @@
 2021-06-26 01:45:12 INFO  StepImplement:158 - MagazaYorumları elementine tiklandi.
 2021-06-26 01:45:13 INFO  StepImplement:200 - YorumVarMi elementinin : 8 değerlendirmede 7 yorum yazılmış
 2021-06-26 01:45:13 INFO  BaseTest:42 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-27 00:23:06 INFO  Reflections:169 - Reflections took 3056 ms to scan 84 urls, producing 9909 keys and 52191 values 
+2021-06-27 00:23:08 INFO  Reflections:169 - Reflections took 1959 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-27 00:23:16 INFO  BaseTest:36 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-27 00:23:16 INFO  StepImplement:149 - LocationAllow elementine tiklandi.
+2021-06-27 00:23:16 INFO  StepImplement:237 - Magazalar elementine focus olundu.
+2021-06-27 00:23:16 INFO  StepImplement:149 - Magazalar elementine tiklandi.
+2021-06-27 00:23:16 INFO  StepImplement:72 - MagazalariGor elementi bulundu.
+2021-06-27 00:23:19 INFO  StepImplement:149 - MagazalariGor elementine tiklandi.
+2021-06-27 00:23:19 INFO  StepImplement:120 - 2 saniye bekleniyor.
+2021-06-27 00:23:32 INFO  StepImplement:72 - Ads elementi bulundu.
+2021-06-27 00:23:32 INFO  StepImplement:149 - Ads elementine tiklandi.
+2021-06-27 00:23:35 INFO  StepImplement:72 - MagazaYorumları elementi bulundu.
+2021-06-27 00:23:38 INFO  StepImplement:149 - MagazaYorumları elementine tiklandi.
+2021-06-27 00:23:38 INFO  StepImplement:182 - YorumVarMi elementinde hiç yorum yok
+2021-06-27 00:23:38 INFO  BaseTest:42 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-06-27 00:24:24 INFO  Reflections:169 - Reflections took 2657 ms to scan 84 urls, producing 9909 keys and 52191 values 
+2021-06-27 00:24:26 INFO  Reflections:169 - Reflections took 1948 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-06-27 00:24:32 INFO  BaseTest:36 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-06-27 00:24:32 INFO  StepImplement:149 - LocationAllow elementine tiklandi.
+2021-06-27 00:24:32 INFO  StepImplement:237 - Magazalar elementine focus olundu.
+2021-06-27 00:24:32 INFO  StepImplement:149 - Magazalar elementine tiklandi.
+2021-06-27 00:24:32 INFO  StepImplement:72 - MagazalariGor elementi bulundu.
+2021-06-27 00:24:35 INFO  StepImplement:149 - MagazalariGor elementine tiklandi.
+2021-06-27 00:24:35 INFO  StepImplement:120 - 2 saniye bekleniyor.
+2021-06-27 00:24:48 INFO  StepImplement:72 - Ads elementi bulundu.
+2021-06-27 00:24:49 INFO  StepImplement:149 - Ads elementine tiklandi.
+2021-06-27 00:24:51 INFO  StepImplement:72 - MagazaYorumları elementi bulundu.
+2021-06-27 00:24:52 INFO  StepImplement:149 - MagazaYorumları elementine tiklandi.
+2021-06-27 00:24:52 INFO  StepImplement:182 - YorumVarMi elementinde hic yorum yok
+2021-06-27 00:24:52 INFO  BaseTest:42 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
