@@ -28,8 +28,6 @@ public class StepImplement extends BaseTest {
     private static Log4jLoggerAdapter logger = (Log4jLoggerAdapter) LoggerFactory
             .getLogger(StepImplement.class);
     private Actions actions =new Actions(driver);
-    public static int DEFAULT_MAX_ITERATION_COUNT = 150;
-    public static int DEFAULT_MILLISECOND_WAIT_AMOUNT = 100;
     private File fileoutput=new File("N11_All_Stores.csv");
 
     public StepImplement() {
@@ -68,7 +66,7 @@ public class StepImplement extends BaseTest {
     public WebElement getElementWithKeyIfExists(String key) {
         WebElement webElement;
         int loopCount = 0;
-        while (loopCount < DEFAULT_MAX_ITERATION_COUNT) {
+        while (loopCount < 150) {
             try {
                 webElement = findElementWithKey(key);
                 logger.info(key + " elementi bulundu.");
@@ -76,7 +74,7 @@ public class StepImplement extends BaseTest {
             } catch (WebDriverException e) {
             }
             loopCount++;
-            waitByMilliSeconds(DEFAULT_MILLISECOND_WAIT_AMOUNT);
+            waitByMilliSeconds(100);
         }
         Assert.fail("Element: '" + key + "' doesn't exist.");
         return null;
@@ -97,21 +95,12 @@ public class StepImplement extends BaseTest {
     public String getElementText(String key) {
         return findElement(key).getText();
     }
-    public void javaScriptClicker(WebDriver driver, WebElement element) {
 
-        JavascriptExecutor jse = ((JavascriptExecutor) driver);
-        jse.executeScript("var evt = document.createEvent('MouseEvents');"
-                + "evt.initMouseEvent('click',true, true, window, 0, 0, 0, 0, 0, false, false, false, false, 0,null);"
-                + "arguments[0].dispatchEvent(evt);", element);
-    }
 
     public String getElementAttributeValue(String key, String attribute) {
         return findElement(key).getAttribute(attribute);
     }
-    public void javaScriptClicker(WebElement element) {
-        JavascriptExecutor executor = (JavascriptExecutor) driver;
-        executor.executeScript("arguments[0].click();", element);
-    }
+
     protected boolean isElementExist(String key) {
 
         ElementsInfo elementInfo = StoreHelper.INSTANCE.findElementInfoByKey(key);
@@ -160,47 +149,38 @@ public class StepImplement extends BaseTest {
     }
     @Step({"<text> textini <key> elemente yaz"})
     public void sendKeys(String text, String key) {
+        findElement(key).clear();
         if (!key.equals("")) {
             findElement(key).sendKeys(text);
             findElement(key).sendKeys(Keys.ENTER);
             logger.info(key + " elementine " + text + " texti yazildi ve enter tuşuna basildi.");
         }
     }
-    @Step({"Elemente BACKSPACE keyi yolla <key>"})
-    public void sendKeyToElementBACKSPACE(String key) {
-        findElement(key).sendKeys(Keys.BACK_SPACE);
-        logger.info(key + " elementine BACKSPACE keyi yollandı.");
-    }
+
 
     @Step({"<key> elementinin <attribute> niteliği <value> değerine sahip mi"})
     public void checkElementAttributeEquals(String key, String attribute, String expectedValue) {
-        WebElement element = findElement(key);
 
-        String actualValue;
-        int loopCount = 0;
-        while (loopCount < DEFAULT_MAX_ITERATION_COUNT) {
-            actualValue = element.getAttribute(attribute).trim();
+        String actualValue= findElement(key).getAttribute(attribute).trim();
+
             if (actualValue.equals(expectedValue)) {
                 logger.info(
                         key + " elementinin " + attribute + " niteligi " + expectedValue + " degerine sahip.");
-                return;
-            }
-            loopCount++;
-            waitByMilliSeconds(DEFAULT_MILLISECOND_WAIT_AMOUNT);
-        }
-        Assert.fail("Elementin Attribute değeri beklenen değerle aynı değil");
+                return;}
+
+             else{
+                 Assert.fail("Elementin Attribute değeri beklenen değerle aynı değil");
+             }
     }
 
 
     @Step({"<key> elementinin text degerini getir"})
     public void checkAttribute(String key){
-
-            WebElement element = findElement(key);
             if(isElementExist(key))
-                logger.info(key + " elementinin : " + element.getText());
+                logger.info(key + " elementinin : " + findElement(key).getText());
             else logger.info(key+ " elementinde hiç yorum yok");
     }
-    @Step({"<key> listesinden random bir element seç"})
+    @Step({"<key> listesinden random bir element seç ve tıkla"})
     public void randomPick(String key) {
         List<WebElement> productElems = findElements(key);
 

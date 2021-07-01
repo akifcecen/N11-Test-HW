@@ -25,13 +25,11 @@ public class BaseTest {
         ChromeOptions options = new ChromeOptions();
         capabilities = DesiredCapabilities.chrome();
         options.addArguments("--disable-notifications");
-        options.addArguments("--start-fullscreen");
+        options.addArguments("--start-maximized");
         System.setProperty("webdriver.chrome.driver","WebDriver/chromedriver.exe");
         driver = new ChromeDriver(options);
         driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
 
-
-        driver.manage().window().fullscreen();
         driver.get(baseUrl);
         LOGGER.info(baseUrl + " BROWSERDA ACILDI.");
     }

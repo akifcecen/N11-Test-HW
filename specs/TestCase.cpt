@@ -21,7 +21,7 @@ This is a concept file with following syntax for each concept.
 
 # Random bir magaza secilir
 *  Elementi bekle ve sonra tıkla "Ads"
-* "RandomMagazaContent" listesinden random bir element seç
+* "RandomMagazaContent" listesinden random bir element seç ve tıkla
 
 # Magaza Yorumları açılır
 *Elementi bekle ve sonra tıkla "MagazaYorumları"
@@ -36,16 +36,16 @@ This is a concept file with following syntax for each concept.
 
 # Marka listesinden üçüncü marka seçildi
 * Elementi bekle ve sonra tıkla "Ads"
-* Elementine tıkla "ThrdBrand"
+* Elementi bekle ve sonra tıkla "ThrdBrand"
 
 # Listelenen ürünlenden random bir ürün seçildi
-* Elementine tıkla "RandomProductlist"
+* "RandomProductlist" listesinden random bir element seç ve tıkla
 * "2" saniye bekle
 
 # Ürün miktarı textboxu temizlenip 2 arttırıldı
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "PopUp2"
-* Elementi bekle ve sonra tıkla "Quantity"
+//* Elementi bekle ve sonra tıkla "PopUp2"
+* "2" textini "Quantity" elemente yaz
 
 # Sepete Ekle butonuna tıklandı
 * Elementi bekle ve sonra tıkla "AddtoBasket"

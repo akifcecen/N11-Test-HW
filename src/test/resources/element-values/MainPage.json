@@ -63,33 +63,33 @@
   },
   {
     "key": "ThrdBrand",
-    "value": "brand-m-Acer",
-    "type": "id"
+    "value": "//section[@class='filter']/div[@class='filterList']/div[3]/label/input[@id='brand-m-Acer']",
+    "type": "xpath"
   },
   {
     "key": "RandomProductlist",
-    "value": "//*[@id=\"p-478567190\"]/div[1]/a/img",
+    "value": "//div[@id='view']/ul[@class='clearfix']/li/div/div[@class='pro']/a",
     "type": "xpath"
   },
   {
     "key": "Quantity",
-    "value": "//*[@id=\"unf-p-id\"]/div/div[3]/div[1]/div[1]/div[2]/div[4]/div[2]/div[1]/div/div/span[1]",
-    "type": "xpath"
+    "value": "quantity",
+    "type": "id"
   },
   {
     "key": "AddtoBasket",
-    "value": "//*[@id=\"unf-p-id\"]/div/div[3]/div[1]/div[1]/div[2]/div[4]/div[2]/div[2]/a",
+    "value": "//div[@class='paymentDetail']/div[@class='btnHolder']/a[@title='Sepete Ekle']",
     "type": "xpath"
   },
   {
     "key": "Sepetim",
-    "value": "//*[@id=\"header\"]/div/div/div[2]/div[2]/div[4]/a",
+    "value": "//div[@class='myBasketHolder']",
     "type": "xpath"
   },
   {
     "key": "checkQuantity",
-    "value": "quantity_126968008208",
-    "type": "id"
+    "value": "//div[@class='spinnerField ']/input[@name='quantity']",
+    "type": "xpath"
   },
   {
     "key": "PopUp2",
