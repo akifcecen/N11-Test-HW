@@ -6353,3 +6353,621 @@
 26-06-2021 01:39:02.554 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"*Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"*Elementi bekle ve sonra tıkla <tamam>" parameters:"tamam"}}
 26-06-2021 01:39:02.554 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"checkQuantity\" elementinin \"value\" niteliği \"2\" değerine sahip mi"}
 26-06-2021 01:39:02.554 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} elementinin {} niteliği {} değerine sahip mi" parameterizedStepValue:"* <checkQuantity> elementinin <value> niteliği <2> değerine sahip mi" parameters:"checkQuantity" parameters:"value" parameters:"2"}}
+02-07-2021 10:47:12.673 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\N11-Test-HW\specs
+02-07-2021 10:47:12.676 [Gauge] [DEBUG] Found 2 files
+02-07-2021 10:47:12.683 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.683 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:12.685 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-07-2021 10:47:12.685 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\N11-Test-HW\specs\N11_Test.spec
+02-07-2021 10:47:55.682 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\N11-Test-HW\specs
+02-07-2021 10:47:55.682 [Gauge] [DEBUG] Found 2 files
+02-07-2021 10:47:55.692 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 10:47:55.692 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-07-2021 10:47:55.692 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\N11-Test-HW\specs\N11_Test.spec
+02-07-2021 10:47:55.692 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-07-2021 10:47:55.692 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51003
+02-07-2021 10:47:56.551 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementine tıkla \"LocationAllow\""}
+02-07-2021 10:47:56.564 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}" parameterizedStepValue:"Elementine tıkla <LocationAllow>" parameters:"LocationAllow"}}
+02-07-2021 10:47:56.566 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<int> saniye bekle"}
+02-07-2021 10:47:56.575 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<int> saniye bekle" parameters:"int"}}
+02-07-2021 10:47:56.575 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<long> milisaniye bekle"}
+02-07-2021 10:47:56.575 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} milisaniye bekle" parameterizedStepValue:"<long> milisaniye bekle" parameters:"long"}}
+02-07-2021 10:47:56.575 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla <key>"}
+02-07-2021 10:47:56.575 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <key>" parameters:"key"}}
+02-07-2021 10:47:56.576 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementine tıkla <key>"}
+02-07-2021 10:47:56.576 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}" parameterizedStepValue:"Elementine tıkla <key>" parameters:"key"}}
+02-07-2021 10:47:56.577 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"Magazalar\" Elementine focus ol"}
+02-07-2021 10:47:56.578 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} Elementine focus ol" parameterizedStepValue:"<Magazalar> Elementine focus ol" parameters:"Magazalar"}}
+02-07-2021 10:47:56.579 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<text> textini <key> elemente yaz"}
+02-07-2021 10:47:56.579 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz" parameterizedStepValue:"<text> textini <key> elemente yaz" parameters:"text" parameters:"key"}}
+02-07-2021 10:47:56.580 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementinin <attribute> niteliği <value> değerine sahip mi"}
+02-07-2021 10:47:56.580 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementinin {} niteliği {} değerine sahip mi" parameterizedStepValue:"<key> elementinin <attribute> niteliği <value> değerine sahip mi" parameters:"key" parameters:"attribute" parameters:"value"}}
+02-07-2021 10:47:56.580 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementinin text degerini getir"}
+02-07-2021 10:47:56.580 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementinin text degerini getir" parameterizedStepValue:"<key> elementinin text degerini getir" parameters:"key"}}
+02-07-2021 10:47:56.581 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> listesinden random bir element seç ve tıkla"}
+02-07-2021 10:47:56.581 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} listesinden random bir element seç ve tıkla" parameterizedStepValue:"<key> listesinden random bir element seç ve tıkla" parameters:"key"}}
+02-07-2021 10:47:56.581 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> harf bilgili <key> magaza bilgilerini csv dosyasına yaz"}
+02-07-2021 10:47:56.581 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} harf bilgili {} magaza bilgilerini csv dosyasına yaz" parameterizedStepValue:"<key> harf bilgili <key> magaza bilgilerini csv dosyasına yaz" parameters:"key" parameters:"key"}}
+02-07-2021 10:47:56.581 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> Elementine focus ol"}
+02-07-2021 10:47:56.581 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} Elementine focus ol" parameterizedStepValue:"<key> Elementine focus ol" parameters:"key"}}
+02-07-2021 10:47:56.582 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementine tıkla \"Magazalar\""}
+02-07-2021 10:47:56.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}" parameterizedStepValue:"Elementine tıkla <Magazalar>" parameters:"Magazalar"}}
+02-07-2021 10:47:56.583 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"MagazalariGor\""}
+02-07-2021 10:47:56.583 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <MagazalariGor>" parameters:"MagazalariGor"}}
+02-07-2021 10:47:56.584 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"2\" saniye bekle"}
+02-07-2021 10:47:56.584 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<2> saniye bekle" parameters:"2"}}
+02-07-2021 10:47:56.585 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"Ads\""}
+02-07-2021 10:47:56.586 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <Ads>" parameters:"Ads"}}
+02-07-2021 10:47:56.586 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementine tıkla \"TumMagazalarButonu\""}
+02-07-2021 10:47:56.586 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}" parameterizedStepValue:"Elementine tıkla <TumMagazalarButonu>" parameters:"TumMagazalarButonu"}}
+02-07-2021 10:47:56.587 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"MagazaLetter\" harf bilgili \"TumMagazalar\" magaza bilgilerini csv dosyasına yaz"}
+02-07-2021 10:47:56.587 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} harf bilgili {} magaza bilgilerini csv dosyasına yaz" parameterizedStepValue:"<MagazaLetter> harf bilgili <TumMagazalar> magaza bilgilerini csv dosyasına yaz" parameters:"MagazaLetter" parameters:"TumMagazalar"}}
+02-07-2021 10:47:56.588 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"RandomMagazaContent\" listesinden random bir element seç ve tıkla"}
+02-07-2021 10:47:56.590 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} listesinden random bir element seç ve tıkla" parameterizedStepValue:"<RandomMagazaContent> listesinden random bir element seç ve tıkla" parameters:"RandomMagazaContent"}}
+02-07-2021 10:47:56.590 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"MagazaYorumları\""}
+02-07-2021 10:47:56.591 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <MagazaYorumları>" parameters:"MagazaYorumları"}}
+02-07-2021 10:47:56.592 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"YorumVarMi\" elementinin text degerini getir"}
+02-07-2021 10:47:56.593 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementinin text degerini getir" parameterizedStepValue:"<YorumVarMi> elementinin text degerini getir" parameters:"YorumVarMi"}}
+02-07-2021 10:47:56.593 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"Bilgisayar\" textini \"Search\" elemente yaz"}
+02-07-2021 10:47:56.594 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz" parameterizedStepValue:"<Bilgisayar> textini <Search> elemente yaz" parameters:"Bilgisayar" parameters:"Search"}}
+02-07-2021 10:47:56.595 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"ThrdBrand\""}
+02-07-2021 10:47:56.596 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <ThrdBrand>" parameters:"ThrdBrand"}}
+02-07-2021 10:47:56.596 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"RandomProductlist\" listesinden random bir element seç ve tıkla"}
+02-07-2021 10:47:56.597 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} listesinden random bir element seç ve tıkla" parameterizedStepValue:"<RandomProductlist> listesinden random bir element seç ve tıkla" parameters:"RandomProductlist"}}
+02-07-2021 10:47:56.597 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"2\" textini \"Quantity\" elemente yaz"}
+02-07-2021 10:47:56.597 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz" parameterizedStepValue:"<2> textini <Quantity> elemente yaz" parameters:"2" parameters:"Quantity"}}
+02-07-2021 10:47:56.600 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"AddtoBasket\""}
+02-07-2021 10:47:56.600 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <AddtoBasket>" parameters:"AddtoBasket"}}
+02-07-2021 10:47:56.602 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"Sepetim\""}
+02-07-2021 10:47:56.603 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <Sepetim>" parameters:"Sepetim"}}
+02-07-2021 10:47:56.604 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"tamam\""}
+02-07-2021 10:47:56.605 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <tamam>" parameters:"tamam"}}
+02-07-2021 10:47:56.606 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"checkQuantity\" elementinin \"value\" niteliği \"2\" değerine sahip mi"}
+02-07-2021 10:47:56.606 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementinin {} niteliği {} değerine sahip mi" parameterizedStepValue:"<checkQuantity> elementinin <value> niteliği <2> değerine sahip mi" parameters:"checkQuantity" parameters:"value" parameters:"2"}}
+02-07-2021 10:47:59.512 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}
+02-07-2021 10:47:59.514 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır" parameterizedStepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}}
+02-07-2021 10:47:59.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementine focus ile tıkla"}
+02-07-2021 10:47:59.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementine focus ile tıkla" parameterizedStepValue:"<key> elementine focus ile tıkla" parameters:"key"}}
+02-07-2021 10:47:59.563 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}
+02-07-2021 10:47:59.578 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır" parameterizedStepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}}
+02-07-2021 10:47:59.579 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Mağazalar/Mağazaları Gör butonuna tıklanır"}
+02-07-2021 10:47:59.579 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır" parameterizedStepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır"}}
+02-07-2021 10:47:59.609 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Mağazalar/Mağazaları Gör butonuna tıklanır"}
+02-07-2021 10:47:59.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır" parameterizedStepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır"}}
+02-07-2021 10:47:59.617 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Tüm mağazalar sayfası tıklanır"}
+02-07-2021 10:47:59.617 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası tıklanır" parameterizedStepValue:"Tüm mağazalar sayfası tıklanır"}}
+02-07-2021 10:47:59.693 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tüm mağazalar sayfası tıklanır"}
+02-07-2021 10:47:59.694 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası tıklanır" parameterizedStepValue:"Tüm mağazalar sayfası tıklanır"}}
+02-07-2021 10:47:59.694 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}
+02-07-2021 10:47:59.694 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır" parameterizedStepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}}
+02-07-2021 10:47:59.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}
+02-07-2021 10:47:59.728 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır" parameterizedStepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}}
+02-07-2021 10:47:59.729 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Random bir magaza secilir"}
+02-07-2021 10:47:59.729 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Random bir magaza secilir" parameterizedStepValue:"Random bir magaza secilir"}}
+02-07-2021 10:47:59.747 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Random bir magaza secilir"}
+02-07-2021 10:47:59.763 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Random bir magaza secilir" parameterizedStepValue:"Random bir magaza secilir"}}
+02-07-2021 10:47:59.763 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Magaza Yorumları açılır"}
+02-07-2021 10:47:59.763 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorumları açılır" parameterizedStepValue:"Magaza Yorumları açılır"}}
+02-07-2021 10:47:59.779 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Magaza Yorumları açılır"}
+02-07-2021 10:47:59.792 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorumları açılır" parameterizedStepValue:"Magaza Yorumları açılır"}}
+02-07-2021 10:47:59.792 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Magaza Yorum kontrolu yapilir"}
+02-07-2021 10:47:59.792 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorum kontrolu yapilir" parameterizedStepValue:"Magaza Yorum kontrolu yapilir"}}
+02-07-2021 10:47:59.840 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Magaza Yorum kontrolu yapilir"}
+02-07-2021 10:47:59.840 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorum kontrolu yapilir" parameterizedStepValue:"Magaza Yorum kontrolu yapilir"}}
+02-07-2021 10:47:59.845 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}
+02-07-2021 10:47:59.845 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır" parameterizedStepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}}
+02-07-2021 10:47:59.893 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}
+02-07-2021 10:47:59.894 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır" parameterizedStepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}}
+02-07-2021 10:47:59.895 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Marka listesinden üçüncü marka seçildi"}
+02-07-2021 10:47:59.895 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Marka listesinden üçüncü marka seçildi" parameterizedStepValue:"Marka listesinden üçüncü marka seçildi"}}
+02-07-2021 10:47:59.911 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Marka listesinden üçüncü marka seçildi"}
+02-07-2021 10:47:59.926 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Marka listesinden üçüncü marka seçildi" parameterizedStepValue:"Marka listesinden üçüncü marka seçildi"}}
+02-07-2021 10:47:59.926 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Listelenen ürünlenden random bir ürün seçildi"}
+02-07-2021 10:47:59.926 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Listelenen ürünlenden random bir ürün seçildi" parameterizedStepValue:"Listelenen ürünlenden random bir ürün seçildi"}}
+02-07-2021 10:47:59.958 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Listelenen ürünlenden random bir ürün seçildi"}
+02-07-2021 10:47:59.966 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Listelenen ürünlenden random bir ürün seçildi" parameterizedStepValue:"Listelenen ürünlenden random bir ürün seçildi"}}
+02-07-2021 10:47:59.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ürün miktarı textboxu temizlenip 2 arttırıldı"}
+02-07-2021 10:47:59.966 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı" parameterizedStepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı"}}
+02-07-2021 10:48:01.801 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Ürün miktarı textboxu temizlenip 2 arttırıldı"}
+02-07-2021 10:48:01.803 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı" parameterizedStepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı"}}
+02-07-2021 10:48:01.803 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepete Ekle butonuna tıklandı"}
+02-07-2021 10:48:01.804 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepete Ekle butonuna tıklandı" parameterizedStepValue:"Sepete Ekle butonuna tıklandı"}}
+02-07-2021 10:48:01.832 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Sepete Ekle butonuna tıklandı"}
+02-07-2021 10:48:01.835 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepete Ekle butonuna tıklandı" parameterizedStepValue:"Sepete Ekle butonuna tıklandı"}}
+02-07-2021 10:48:01.836 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetim butonuyla sepetim safyasına geç"}
+02-07-2021 10:48:01.836 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetim butonuyla sepetim safyasına geç" parameterizedStepValue:"Sepetim butonuyla sepetim safyasına geç"}}
+02-07-2021 10:48:01.873 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Sepetim butonuyla sepetim safyasına geç"}
+02-07-2021 10:48:01.873 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetim butonuyla sepetim safyasına geç" parameterizedStepValue:"Sepetim butonuyla sepetim safyasına geç"}}
+02-07-2021 10:48:01.879 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetteki ürün sayısının 2 olduğunu kontrol et"}
+02-07-2021 10:48:01.879 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et" parameterizedStepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et"}}
+02-07-2021 10:48:01.938 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Sepetteki ürün sayısının 2 olduğunu kontrol et"}
+02-07-2021 10:48:01.942 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et" parameterizedStepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et"}}
+02-07-2021 11:07:23.438 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementine tıkla \"LocationAllow\""}
+02-07-2021 11:07:23.439 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementine tıkla {}" parameterizedStepValue:"* Elementine tıkla <LocationAllow>" parameters:"LocationAllow"}}
+02-07-2021 11:07:23.439 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"Magazalar\" Elementine focus ol"}
+02-07-2021 11:07:23.439 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} Elementine focus ol" parameterizedStepValue:"* <Magazalar> Elementine focus ol" parameters:"Magazalar"}}
+02-07-2021 11:07:23.439 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementine tıkla \"Magazalar\""}
+02-07-2021 11:07:23.439 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementine tıkla {}" parameterizedStepValue:"* Elementine tıkla <Magazalar>" parameters:"Magazalar"}}
+02-07-2021 11:07:23.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"MagazalariGor\""}
+02-07-2021 11:07:23.440 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"* Elementi bekle ve sonra tıkla <MagazalariGor>" parameters:"MagazalariGor"}}
+02-07-2021 11:07:23.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"2\" saniye bekle"}
+02-07-2021 11:07:23.440 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} saniye bekle" parameterizedStepValue:"* <2> saniye bekle" parameters:"2"}}
+02-07-2021 11:07:23.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"Ads\""}
+02-07-2021 11:07:23.440 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"* Elementi bekle ve sonra tıkla <Ads>" parameters:"Ads"}}
+02-07-2021 11:07:23.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementine tıkla \"TumMagazalarButonu\""}
+02-07-2021 11:07:23.440 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementine tıkla {}" parameterizedStepValue:"* Elementine tıkla <TumMagazalarButonu>" parameters:"TumMagazalarButonu"}}
+02-07-2021 11:07:23.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"MagazaLetter\" harf bilgili \"TumMagazalar\" magaza bilgilerini csv dosyasına yaz"}
+02-07-2021 11:07:23.440 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} harf bilgili {} magaza bilgilerini csv dosyasına yaz" parameterizedStepValue:"* <MagazaLetter> harf bilgili <TumMagazalar> magaza bilgilerini csv dosyasına yaz" parameters:"MagazaLetter" parameters:"TumMagazalar"}}
+02-07-2021 11:07:23.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"*  Elementi bekle ve sonra tıkla \"Ads\""}
+02-07-2021 11:07:23.440 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"*  Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"*  Elementi bekle ve sonra tıkla <Ads>" parameters:"Ads"}}
+02-07-2021 11:07:23.441 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"RandomMagazaContent\" listesinden random bir element seç ve tıkla"}
+02-07-2021 11:07:23.441 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} listesinden random bir element seç ve tıkla" parameterizedStepValue:"* <RandomMagazaContent> listesinden random bir element seç ve tıkla" parameters:"RandomMagazaContent"}}
+02-07-2021 11:07:23.441 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"*Elementi bekle ve sonra tıkla \"MagazaYorumları\""}
+02-07-2021 11:07:23.441 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"*Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"*Elementi bekle ve sonra tıkla <MagazaYorumları>" parameters:"MagazaYorumları"}}
+02-07-2021 11:07:23.441 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"YorumVarMi\" elementinin text degerini getir"}
+02-07-2021 11:07:23.441 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} elementinin text degerini getir" parameterizedStepValue:"* <YorumVarMi> elementinin text degerini getir" parameters:"YorumVarMi"}}
+02-07-2021 11:07:23.442 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"Bilgisayar\" textini \"Search\" elemente yaz"}
+02-07-2021 11:07:23.442 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} textini {} elemente yaz" parameterizedStepValue:"* <Bilgisayar> textini <Search> elemente yaz" parameters:"Bilgisayar" parameters:"Search"}}
+02-07-2021 11:07:23.442 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"ThrdBrand\""}
+02-07-2021 11:07:23.442 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"* Elementi bekle ve sonra tıkla <ThrdBrand>" parameters:"ThrdBrand"}}
+02-07-2021 11:07:23.442 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"RandomProductlist\" listesinden random bir element seç ve tıkla"}
+02-07-2021 11:07:23.442 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} listesinden random bir element seç ve tıkla" parameterizedStepValue:"* <RandomProductlist> listesinden random bir element seç ve tıkla" parameters:"RandomProductlist"}}
+02-07-2021 11:07:23.442 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"2\" textini \"Quantity\" elemente yaz"}
+02-07-2021 11:07:23.442 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} textini {} elemente yaz" parameterizedStepValue:"* <2> textini <Quantity> elemente yaz" parameters:"2" parameters:"Quantity"}}
+02-07-2021 11:07:23.442 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"AddtoBasket\""}
+02-07-2021 11:07:23.442 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"* Elementi bekle ve sonra tıkla <AddtoBasket>" parameters:"AddtoBasket"}}
+02-07-2021 11:07:23.442 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"Sepetim\""}
+02-07-2021 11:07:23.443 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"* Elementi bekle ve sonra tıkla <Sepetim>" parameters:"Sepetim"}}
+02-07-2021 11:07:23.443 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"*Elementi bekle ve sonra tıkla \"tamam\""}
+02-07-2021 11:07:23.443 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"*Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"*Elementi bekle ve sonra tıkla <tamam>" parameters:"tamam"}}
+02-07-2021 11:07:23.443 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"checkQuantity\" elementinin \"value\" niteliği \"2\" değerine sahip mi"}
+02-07-2021 11:07:23.443 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} elementinin {} niteliği {} değerine sahip mi" parameterizedStepValue:"* <checkQuantity> elementinin <value> niteliği <2> değerine sahip mi" parameters:"checkQuantity" parameters:"value" parameters:"2"}}
+02-07-2021 12:06:14.858 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\N11-Test-HW\specs
+02-07-2021 12:06:14.858 [Gauge] [DEBUG] Found 2 files
+02-07-2021 12:06:14.870 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:06:14.870 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-07-2021 12:06:14.870 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\N11-Test-HW\specs\N11_Test.spec
+02-07-2021 12:10:40.696 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\N11-Test-HW\specs
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Found 2 files
+02-07-2021 12:10:40.696 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:10:40.696 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-07-2021 12:10:40.696 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\N11-Test-HW\specs\N11_Test.spec
+02-07-2021 12:10:40.696 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-07-2021 12:10:40.696 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51931
+02-07-2021 12:10:41.554 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}
+02-07-2021 12:10:41.556 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır" parameterizedStepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}}
+02-07-2021 12:10:41.557 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<int> saniye bekle"}
+02-07-2021 12:10:41.565 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<int> saniye bekle" parameters:"int"}}
+02-07-2021 12:10:41.565 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<long> milisaniye bekle"}
+02-07-2021 12:10:41.566 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} milisaniye bekle" parameterizedStepValue:"<long> milisaniye bekle" parameters:"long"}}
+02-07-2021 12:10:41.566 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla <key>"}
+02-07-2021 12:10:41.566 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <key>" parameters:"key"}}
+02-07-2021 12:10:41.566 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementine tıkla <key>"}
+02-07-2021 12:10:41.567 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}" parameterizedStepValue:"Elementine tıkla <key>" parameters:"key"}}
+02-07-2021 12:10:41.567 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<text> textini <key> elemente yaz"}
+02-07-2021 12:10:41.567 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz" parameterizedStepValue:"<text> textini <key> elemente yaz" parameters:"text" parameters:"key"}}
+02-07-2021 12:10:41.567 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementinin <attribute> niteliği <value> değerine sahip mi"}
+02-07-2021 12:10:41.567 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementinin {} niteliği {} değerine sahip mi" parameterizedStepValue:"<key> elementinin <attribute> niteliği <value> değerine sahip mi" parameters:"key" parameters:"attribute" parameters:"value"}}
+02-07-2021 12:10:41.567 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementinin text degerini getir"}
+02-07-2021 12:10:41.567 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementinin text degerini getir" parameterizedStepValue:"<key> elementinin text degerini getir" parameters:"key"}}
+02-07-2021 12:10:41.568 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> listesinden random bir element seç ve tıkla"}
+02-07-2021 12:10:41.568 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} listesinden random bir element seç ve tıkla" parameterizedStepValue:"<key> listesinden random bir element seç ve tıkla" parameters:"key"}}
+02-07-2021 12:10:41.568 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> harf bilgili <key> magaza bilgilerini csv dosyasına yaz"}
+02-07-2021 12:10:41.568 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} harf bilgili {} magaza bilgilerini csv dosyasına yaz" parameterizedStepValue:"<key> harf bilgili <key> magaza bilgilerini csv dosyasına yaz" parameters:"key" parameters:"key"}}
+02-07-2021 12:10:41.569 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> Elementine focus ol"}
+02-07-2021 12:10:41.569 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} Elementine focus ol" parameterizedStepValue:"<key> Elementine focus ol" parameters:"key"}}
+02-07-2021 12:10:41.569 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementine focus ile tıkla"}
+02-07-2021 12:10:41.569 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementine focus ile tıkla" parameterizedStepValue:"<key> elementine focus ile tıkla" parameters:"key"}}
+02-07-2021 12:10:41.608 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}
+02-07-2021 12:10:41.617 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır" parameterizedStepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}}
+02-07-2021 12:10:41.617 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Mağazalar/Mağazaları Gör butonuna tıklanır"}
+02-07-2021 12:10:41.619 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır" parameterizedStepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır"}}
+02-07-2021 12:10:41.666 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Mağazalar/Mağazaları Gör butonuna tıklanır"}
+02-07-2021 12:10:41.667 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır" parameterizedStepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır"}}
+02-07-2021 12:10:41.667 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Tüm mağazalar sayfası tıklanır"}
+02-07-2021 12:10:41.668 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası tıklanır" parameterizedStepValue:"Tüm mağazalar sayfası tıklanır"}}
+02-07-2021 12:10:41.708 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tüm mağazalar sayfası tıklanır"}
+02-07-2021 12:10:41.719 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası tıklanır" parameterizedStepValue:"Tüm mağazalar sayfası tıklanır"}}
+02-07-2021 12:10:41.720 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}
+02-07-2021 12:10:41.720 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır" parameterizedStepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}}
+02-07-2021 12:10:41.788 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}
+02-07-2021 12:10:41.788 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır" parameterizedStepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}}
+02-07-2021 12:10:41.789 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Random bir magaza secilir"}
+02-07-2021 12:10:41.790 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Random bir magaza secilir" parameterizedStepValue:"Random bir magaza secilir"}}
+02-07-2021 12:10:41.839 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Random bir magaza secilir"}
+02-07-2021 12:10:41.839 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Random bir magaza secilir" parameterizedStepValue:"Random bir magaza secilir"}}
+02-07-2021 12:10:41.840 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Magaza Yorumları açılır"}
+02-07-2021 12:10:41.841 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorumları açılır" parameterizedStepValue:"Magaza Yorumları açılır"}}
+02-07-2021 12:10:41.874 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Magaza Yorumları açılır"}
+02-07-2021 12:10:41.877 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorumları açılır" parameterizedStepValue:"Magaza Yorumları açılır"}}
+02-07-2021 12:10:41.878 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Magaza Yorum kontrolu yapilir"}
+02-07-2021 12:10:41.878 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorum kontrolu yapilir" parameterizedStepValue:"Magaza Yorum kontrolu yapilir"}}
+02-07-2021 12:10:41.908 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Magaza Yorum kontrolu yapilir"}
+02-07-2021 12:10:41.908 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorum kontrolu yapilir" parameterizedStepValue:"Magaza Yorum kontrolu yapilir"}}
+02-07-2021 12:10:41.909 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}
+02-07-2021 12:10:41.909 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır" parameterizedStepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}}
+02-07-2021 12:10:41.926 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}
+02-07-2021 12:10:41.938 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır" parameterizedStepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}}
+02-07-2021 12:10:41.939 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Marka listesinden üçüncü marka seçildi"}
+02-07-2021 12:10:41.939 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Marka listesinden üçüncü marka seçildi" parameterizedStepValue:"Marka listesinden üçüncü marka seçildi"}}
+02-07-2021 12:10:41.958 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Marka listesinden üçüncü marka seçildi"}
+02-07-2021 12:10:41.969 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Marka listesinden üçüncü marka seçildi" parameterizedStepValue:"Marka listesinden üçüncü marka seçildi"}}
+02-07-2021 12:10:41.969 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Listelenen ürünlenden random bir ürün seçildi"}
+02-07-2021 12:10:41.969 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Listelenen ürünlenden random bir ürün seçildi" parameterizedStepValue:"Listelenen ürünlenden random bir ürün seçildi"}}
+02-07-2021 12:10:42.008 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Listelenen ürünlenden random bir ürün seçildi"}
+02-07-2021 12:10:42.008 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Listelenen ürünlenden random bir ürün seçildi" parameterizedStepValue:"Listelenen ürünlenden random bir ürün seçildi"}}
+02-07-2021 12:10:42.023 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ürün miktarı textboxu temizlenip 2 arttırıldı"}
+02-07-2021 12:10:42.023 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı" parameterizedStepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı"}}
+02-07-2021 12:10:42.080 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Ürün miktarı textboxu temizlenip 2 arttırıldı"}
+02-07-2021 12:10:42.080 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı" parameterizedStepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı"}}
+02-07-2021 12:10:42.080 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepete Ekle butonuna tıklandı"}
+02-07-2021 12:10:42.080 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepete Ekle butonuna tıklandı" parameterizedStepValue:"Sepete Ekle butonuna tıklandı"}}
+02-07-2021 12:10:42.108 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Sepete Ekle butonuna tıklandı"}
+02-07-2021 12:10:42.108 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepete Ekle butonuna tıklandı" parameterizedStepValue:"Sepete Ekle butonuna tıklandı"}}
+02-07-2021 12:10:42.108 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetim butonuyla sepetim safyasına geç"}
+02-07-2021 12:10:42.108 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetim butonuyla sepetim safyasına geç" parameterizedStepValue:"Sepetim butonuyla sepetim safyasına geç"}}
+02-07-2021 12:10:42.136 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Sepetim butonuyla sepetim safyasına geç"}
+02-07-2021 12:10:42.136 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetim butonuyla sepetim safyasına geç" parameterizedStepValue:"Sepetim butonuyla sepetim safyasına geç"}}
+02-07-2021 12:10:42.136 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetteki ürün sayısının 2 olduğunu kontrol et"}
+02-07-2021 12:10:42.136 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et" parameterizedStepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et"}}
+02-07-2021 12:10:42.166 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Sepetteki ürün sayısının 2 olduğunu kontrol et"}
+02-07-2021 12:10:42.166 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et" parameterizedStepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et"}}
+02-07-2021 12:12:19.249 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\N11-Test-HW\specs
+02-07-2021 12:12:19.249 [Gauge] [DEBUG] Found 2 files
+02-07-2021 12:12:19.253 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.253 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 12:12:19.254 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-07-2021 12:12:19.254 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\N11-Test-HW\specs\N11_Test.spec
+02-07-2021 12:12:19.254 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-07-2021 12:12:19.254 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60731
+02-07-2021 12:12:25.022 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetim butonuyla sepetim safyasına geç"}
+02-07-2021 12:12:25.027 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetim butonuyla sepetim safyasına geç" parameterizedStepValue:"Sepetim butonuyla sepetim safyasına geç"}}
+02-07-2021 12:12:25.210 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<int> saniye bekle"}
+02-07-2021 12:12:25.210 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<int> saniye bekle" parameters:"int"}}
+02-07-2021 12:12:25.232 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<long> milisaniye bekle"}
+02-07-2021 12:12:25.232 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} milisaniye bekle" parameterizedStepValue:"<long> milisaniye bekle" parameters:"long"}}
+02-07-2021 12:12:25.239 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla <key>"}
+02-07-2021 12:12:25.239 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <key>" parameters:"key"}}
+02-07-2021 12:12:25.239 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementine tıkla <key>"}
+02-07-2021 12:12:25.239 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}" parameterizedStepValue:"Elementine tıkla <key>" parameters:"key"}}
+02-07-2021 12:12:25.239 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<text> textini <key> elemente yaz"}
+02-07-2021 12:12:25.239 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz" parameterizedStepValue:"<text> textini <key> elemente yaz" parameters:"text" parameters:"key"}}
+02-07-2021 12:12:25.239 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementinin <attribute> niteliği <value> değerine sahip mi"}
+02-07-2021 12:12:25.239 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementinin {} niteliği {} değerine sahip mi" parameterizedStepValue:"<key> elementinin <attribute> niteliği <value> değerine sahip mi" parameters:"key" parameters:"attribute" parameters:"value"}}
+02-07-2021 12:12:25.241 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementinin text degerini getir"}
+02-07-2021 12:12:25.241 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementinin text degerini getir" parameterizedStepValue:"<key> elementinin text degerini getir" parameters:"key"}}
+02-07-2021 12:12:25.242 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> listesinden random bir element seç ve tıkla"}
+02-07-2021 12:12:25.242 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} listesinden random bir element seç ve tıkla" parameterizedStepValue:"<key> listesinden random bir element seç ve tıkla" parameters:"key"}}
+02-07-2021 12:12:25.243 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> harf bilgili <key> magaza bilgilerini csv dosyasına yaz"}
+02-07-2021 12:12:25.253 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} harf bilgili {} magaza bilgilerini csv dosyasına yaz" parameterizedStepValue:"<key> harf bilgili <key> magaza bilgilerini csv dosyasına yaz" parameters:"key" parameters:"key"}}
+02-07-2021 12:12:25.254 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}
+02-07-2021 12:12:25.254 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır" parameterizedStepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}}
+02-07-2021 12:12:25.285 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> Elementine focus ol"}
+02-07-2021 12:12:25.286 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} Elementine focus ol" parameterizedStepValue:"<key> Elementine focus ol" parameters:"key"}}
+02-07-2021 12:12:25.287 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementine focus ile tıkla"}
+02-07-2021 12:12:25.287 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementine focus ile tıkla" parameterizedStepValue:"<key> elementine focus ile tıkla" parameters:"key"}}
+02-07-2021 12:12:25.538 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}
+02-07-2021 12:12:25.538 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır" parameterizedStepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}}
+02-07-2021 12:12:25.538 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}
+02-07-2021 12:12:25.538 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır" parameterizedStepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}}
+02-07-2021 12:12:25.538 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Mağazalar/Mağazaları Gör butonuna tıklanır"}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır" parameterizedStepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır"}}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Mağazalar/Mağazaları Gör butonuna tıklanır"}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır" parameterizedStepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır"}}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tüm mağazalar sayfası tıklanır"}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası tıklanır" parameterizedStepValue:"Tüm mağazalar sayfası tıklanır"}}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır" parameterizedStepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Random bir magaza secilir"}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Random bir magaza secilir" parameterizedStepValue:"Random bir magaza secilir"}}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Magaza Yorumları açılır"}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorumları açılır" parameterizedStepValue:"Magaza Yorumları açılır"}}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Magaza Yorum kontrolu yapilir"}
+02-07-2021 12:12:25.545 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorum kontrolu yapilir" parameterizedStepValue:"Magaza Yorum kontrolu yapilir"}}
+02-07-2021 12:12:25.548 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}
+02-07-2021 12:12:25.548 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır" parameterizedStepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}}
+02-07-2021 12:12:25.548 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Marka listesinden üçüncü marka seçildi"}
+02-07-2021 12:12:25.548 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Marka listesinden üçüncü marka seçildi" parameterizedStepValue:"Marka listesinden üçüncü marka seçildi"}}
+02-07-2021 12:12:25.549 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Listelenen ürünlenden random bir ürün seçildi"}
+02-07-2021 12:12:25.549 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Listelenen ürünlenden random bir ürün seçildi" parameterizedStepValue:"Listelenen ürünlenden random bir ürün seçildi"}}
+02-07-2021 12:12:25.549 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Ürün miktarı textboxu temizlenip 2 arttırıldı"}
+02-07-2021 12:12:25.549 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı" parameterizedStepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı"}}
+02-07-2021 12:12:25.549 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Sepete Ekle butonuna tıklandı"}
+02-07-2021 12:12:25.549 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepete Ekle butonuna tıklandı" parameterizedStepValue:"Sepete Ekle butonuna tıklandı"}}
+02-07-2021 12:12:25.549 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Sepetim butonuyla sepetim safyasına geç"}
+02-07-2021 12:12:25.549 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetim butonuyla sepetim safyasına geç" parameterizedStepValue:"Sepetim butonuyla sepetim safyasına geç"}}
+02-07-2021 12:12:25.610 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Tüm mağazalar sayfası tıklanır"}
+02-07-2021 12:12:25.610 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası tıklanır" parameterizedStepValue:"Tüm mağazalar sayfası tıklanır"}}
+02-07-2021 12:12:25.661 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}
+02-07-2021 12:12:25.661 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır" parameterizedStepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}}
+02-07-2021 12:12:25.746 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Random bir magaza secilir"}
+02-07-2021 12:12:25.746 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Random bir magaza secilir" parameterizedStepValue:"Random bir magaza secilir"}}
+02-07-2021 12:12:25.821 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Magaza Yorumları açılır"}
+02-07-2021 12:12:25.821 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorumları açılır" parameterizedStepValue:"Magaza Yorumları açılır"}}
+02-07-2021 12:12:25.918 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Magaza Yorum kontrolu yapilir"}
+02-07-2021 12:12:25.918 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorum kontrolu yapilir" parameterizedStepValue:"Magaza Yorum kontrolu yapilir"}}
+02-07-2021 12:12:25.995 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}
+02-07-2021 12:12:25.995 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır" parameterizedStepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}}
+02-07-2021 12:12:26.071 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Marka listesinden üçüncü marka seçildi"}
+02-07-2021 12:12:26.071 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Marka listesinden üçüncü marka seçildi" parameterizedStepValue:"Marka listesinden üçüncü marka seçildi"}}
+02-07-2021 12:12:26.112 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Listelenen ürünlenden random bir ürün seçildi"}
+02-07-2021 12:12:26.112 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Listelenen ürünlenden random bir ürün seçildi" parameterizedStepValue:"Listelenen ürünlenden random bir ürün seçildi"}}
+02-07-2021 12:12:26.163 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ürün miktarı textboxu temizlenip 2 arttırıldı"}
+02-07-2021 12:12:26.163 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı" parameterizedStepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı"}}
+02-07-2021 12:12:26.219 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepete Ekle butonuna tıklandı"}
+02-07-2021 12:12:26.219 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepete Ekle butonuna tıklandı" parameterizedStepValue:"Sepete Ekle butonuna tıklandı"}}
+02-07-2021 12:12:26.271 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetteki ürün sayısının 2 olduğunu kontrol et"}
+02-07-2021 12:12:26.271 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et" parameterizedStepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et"}}
+02-07-2021 12:12:26.322 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Sepetteki ürün sayısının 2 olduğunu kontrol et"}
+02-07-2021 12:12:26.322 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et" parameterizedStepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et"}}
+02-07-2021 13:20:18.789 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\N11-Test-HW\specs
+02-07-2021 13:20:18.792 [Gauge] [DEBUG] Found 2 files
+02-07-2021 13:20:18.802 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+02-07-2021 13:20:18.802 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.802 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.802 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.803 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.803 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.803 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.803 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.803 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.803 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.803 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.803 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.803 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.803 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.803 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:20:18.803 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.819 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\N11-Test-HW\specs
+02-07-2021 13:24:44.819 [Gauge] [DEBUG] Found 2 files
+02-07-2021 13:24:44.822 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.822 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:24:44.823 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-07-2021 13:24:44.823 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\N11-Test-HW\specs\N11_Test.spec
+02-07-2021 13:24:44.823 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-07-2021 13:24:44.823 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52444
+02-07-2021 13:24:45.747 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> harf bilgili <key> magaza bilgilerini csv dosyasına yaz"}
+02-07-2021 13:24:45.752 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} harf bilgili {} magaza bilgilerini csv dosyasına yaz" parameterizedStepValue:"<key> harf bilgili <key> magaza bilgilerini csv dosyasına yaz" parameters:"key" parameters:"key"}}
+02-07-2021 13:24:45.800 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<int> saniye bekle"}
+02-07-2021 13:24:45.814 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<int> saniye bekle" parameters:"int"}}
+02-07-2021 13:24:45.814 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<long> milisaniye bekle"}
+02-07-2021 13:24:45.820 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} milisaniye bekle" parameterizedStepValue:"<long> milisaniye bekle" parameters:"long"}}
+02-07-2021 13:24:45.820 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla <key>"}
+02-07-2021 13:24:45.822 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <key>" parameters:"key"}}
+02-07-2021 13:24:45.823 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementine tıkla <key>"}
+02-07-2021 13:24:45.826 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}" parameterizedStepValue:"Elementine tıkla <key>" parameters:"key"}}
+02-07-2021 13:24:45.826 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<text> textini <key> elemente yaz"}
+02-07-2021 13:24:45.826 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz" parameterizedStepValue:"<text> textini <key> elemente yaz" parameters:"text" parameters:"key"}}
+02-07-2021 13:24:45.832 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementinin <attribute> niteliği <value> değerine sahip mi"}
+02-07-2021 13:24:45.837 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementinin {} niteliği {} değerine sahip mi" parameterizedStepValue:"<key> elementinin <attribute> niteliği <value> değerine sahip mi" parameters:"key" parameters:"attribute" parameters:"value"}}
+02-07-2021 13:24:45.838 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementinin text degerini getir"}
+02-07-2021 13:24:45.841 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementinin text degerini getir" parameterizedStepValue:"<key> elementinin text degerini getir" parameters:"key"}}
+02-07-2021 13:24:45.842 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> listesinden random bir element seç ve tıkla"}
+02-07-2021 13:24:45.843 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} listesinden random bir element seç ve tıkla" parameterizedStepValue:"<key> listesinden random bir element seç ve tıkla" parameters:"key"}}
+02-07-2021 13:24:45.843 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> Elementine focus ol"}
+02-07-2021 13:24:45.849 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} Elementine focus ol" parameterizedStepValue:"<key> Elementine focus ol" parameters:"key"}}
+02-07-2021 13:24:45.850 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementine focus ile tıkla"}
+02-07-2021 13:24:45.853 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementine focus ile tıkla" parameterizedStepValue:"<key> elementine focus ile tıkla" parameters:"key"}}
+02-07-2021 13:24:46.010 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementine tıkla \"LocationAllow\""}
+02-07-2021 13:24:46.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementine tıkla {}" parameterizedStepValue:"* Elementine tıkla <LocationAllow>" parameters:"LocationAllow"}}
+02-07-2021 13:24:46.011 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"Magazalar\" Elementine focus ol"}
+02-07-2021 13:24:46.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} Elementine focus ol" parameterizedStepValue:"* <Magazalar> Elementine focus ol" parameters:"Magazalar"}}
+02-07-2021 13:24:46.011 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementine tıkla \"Magazalar\""}
+02-07-2021 13:24:46.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementine tıkla {}" parameterizedStepValue:"* Elementine tıkla <Magazalar>" parameters:"Magazalar"}}
+02-07-2021 13:24:46.011 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"MagazalariGor\""}
+02-07-2021 13:24:46.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"* Elementi bekle ve sonra tıkla <MagazalariGor>" parameters:"MagazalariGor"}}
+02-07-2021 13:24:46.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"2\" saniye bekle"}
+02-07-2021 13:24:46.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} saniye bekle" parameterizedStepValue:"* <2> saniye bekle" parameters:"2"}}
+02-07-2021 13:24:46.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"Ads\""}
+02-07-2021 13:24:46.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"* Elementi bekle ve sonra tıkla <Ads>" parameters:"Ads"}}
+02-07-2021 13:24:46.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementine tıkla \"TumMagazalarButonu\""}
+02-07-2021 13:24:46.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementine tıkla {}" parameterizedStepValue:"* Elementine tıkla <TumMagazalarButonu>" parameters:"TumMagazalarButonu"}}
+02-07-2021 13:24:46.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"MagazaLetter\" harf bilgili \"TumMagazalar\" magaza bilgilerini csv dosyasına yaz"}
+02-07-2021 13:24:46.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} harf bilgili {} magaza bilgilerini csv dosyasına yaz" parameterizedStepValue:"* <MagazaLetter> harf bilgili <TumMagazalar> magaza bilgilerini csv dosyasına yaz" parameters:"MagazaLetter" parameters:"TumMagazalar"}}
+02-07-2021 13:24:46.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"*  Elementi bekle ve sonra tıkla \"Ads\""}
+02-07-2021 13:24:46.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"*  Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"*  Elementi bekle ve sonra tıkla <Ads>" parameters:"Ads"}}
+02-07-2021 13:24:46.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"RandomMagazaContent\" listesinden random bir element seç ve tıkla"}
+02-07-2021 13:24:46.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} listesinden random bir element seç ve tıkla" parameterizedStepValue:"* <RandomMagazaContent> listesinden random bir element seç ve tıkla" parameters:"RandomMagazaContent"}}
+02-07-2021 13:24:46.013 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"*Elementi bekle ve sonra tıkla \"MagazaYorumları\""}
+02-07-2021 13:24:46.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"*Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"*Elementi bekle ve sonra tıkla <MagazaYorumları>" parameters:"MagazaYorumları"}}
+02-07-2021 13:24:46.013 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"YorumVarMi\" elementinin text degerini getir"}
+02-07-2021 13:24:46.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} elementinin text degerini getir" parameterizedStepValue:"* <YorumVarMi> elementinin text degerini getir" parameters:"YorumVarMi"}}
+02-07-2021 13:24:46.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"Bilgisayar\" textini \"Search\" elemente yaz"}
+02-07-2021 13:24:46.014 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} textini {} elemente yaz" parameterizedStepValue:"* <Bilgisayar> textini <Search> elemente yaz" parameters:"Bilgisayar" parameters:"Search"}}
+02-07-2021 13:24:46.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"ThrdBrand\""}
+02-07-2021 13:24:46.014 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"* Elementi bekle ve sonra tıkla <ThrdBrand>" parameters:"ThrdBrand"}}
+02-07-2021 13:24:46.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"RandomProductlist\" listesinden random bir element seç ve tıkla"}
+02-07-2021 13:24:46.014 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} listesinden random bir element seç ve tıkla" parameterizedStepValue:"* <RandomProductlist> listesinden random bir element seç ve tıkla" parameters:"RandomProductlist"}}
+02-07-2021 13:24:46.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"2\" textini \"Quantity\" elemente yaz"}
+02-07-2021 13:24:46.014 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} textini {} elemente yaz" parameterizedStepValue:"* <2> textini <Quantity> elemente yaz" parameters:"2" parameters:"Quantity"}}
+02-07-2021 13:24:46.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"AddtoBasket\""}
+02-07-2021 13:24:46.015 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"* Elementi bekle ve sonra tıkla <AddtoBasket>" parameters:"AddtoBasket"}}
+02-07-2021 13:24:46.015 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"Sepetim\""}
+02-07-2021 13:24:46.016 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"* Elementi bekle ve sonra tıkla <Sepetim>" parameters:"Sepetim"}}
+02-07-2021 13:24:46.019 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"*Elementi bekle ve sonra tıkla \"tamam\""}
+02-07-2021 13:24:46.019 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"*Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"*Elementi bekle ve sonra tıkla <tamam>" parameters:"tamam"}}
+02-07-2021 13:24:46.019 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"checkQuantity\" elementinin \"value\" niteliği \"2\" değerine sahip mi"}
+02-07-2021 13:24:46.019 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} elementinin {} niteliği {} değerine sahip mi" parameterizedStepValue:"* <checkQuantity> elementinin <value> niteliği <2> değerine sahip mi" parameters:"checkQuantity" parameters:"value" parameters:"2"}}
+02-07-2021 13:24:46.020 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}
+02-07-2021 13:24:46.020 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır" parameterizedStepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}}
+02-07-2021 13:24:46.020 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Mağazalar/Mağazaları Gör butonuna tıklanır"}
+02-07-2021 13:24:46.020 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır" parameterizedStepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır"}}
+02-07-2021 13:24:46.021 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Tüm mağazalar sayfası tıklanır"}
+02-07-2021 13:24:46.021 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası tıklanır" parameterizedStepValue:"Tüm mağazalar sayfası tıklanır"}}
+02-07-2021 13:24:46.021 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}
+02-07-2021 13:24:46.021 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır" parameterizedStepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}}
+02-07-2021 13:24:46.021 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Random bir magaza secilir"}
+02-07-2021 13:24:46.021 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Random bir magaza secilir" parameterizedStepValue:"Random bir magaza secilir"}}
+02-07-2021 13:24:46.022 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Magaza Yorumları açılır"}
+02-07-2021 13:24:46.022 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorumları açılır" parameterizedStepValue:"Magaza Yorumları açılır"}}
+02-07-2021 13:24:46.022 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Magaza Yorum kontrolu yapilir"}
+02-07-2021 13:24:46.022 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorum kontrolu yapilir" parameterizedStepValue:"Magaza Yorum kontrolu yapilir"}}
+02-07-2021 13:24:46.022 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}
+02-07-2021 13:24:46.022 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır" parameterizedStepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}}
+02-07-2021 13:24:46.022 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Marka listesinden üçüncü marka seçildi"}
+02-07-2021 13:24:46.023 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Marka listesinden üçüncü marka seçildi" parameterizedStepValue:"Marka listesinden üçüncü marka seçildi"}}
+02-07-2021 13:24:46.023 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Listelenen ürünlenden random bir ürün seçildi"}
+02-07-2021 13:24:46.023 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Listelenen ürünlenden random bir ürün seçildi" parameterizedStepValue:"Listelenen ürünlenden random bir ürün seçildi"}}
+02-07-2021 13:24:46.023 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ürün miktarı textboxu temizlenip 2 arttırıldı"}
+02-07-2021 13:24:46.023 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı" parameterizedStepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı"}}
+02-07-2021 13:24:46.023 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepete Ekle butonuna tıklandı"}
+02-07-2021 13:24:46.023 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepete Ekle butonuna tıklandı" parameterizedStepValue:"Sepete Ekle butonuna tıklandı"}}
+02-07-2021 13:24:46.023 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetim butonuyla sepetim safyasına geç"}
+02-07-2021 13:24:46.023 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetim butonuyla sepetim safyasına geç" parameterizedStepValue:"Sepetim butonuyla sepetim safyasına geç"}}
+02-07-2021 13:24:46.023 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetteki ürün sayısının 2 olduğunu kontrol et"}
+02-07-2021 13:24:46.023 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et" parameterizedStepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et"}}
+02-07-2021 13:28:30.061 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"Ads\""}
+02-07-2021 13:28:30.064 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <Ads>" parameters:"Ads"}}
+02-07-2021 13:28:30.346 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementine tıkla \"LocationAllow\""}
+02-07-2021 13:28:30.353 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}" parameterizedStepValue:"Elementine tıkla <LocationAllow>" parameters:"LocationAllow"}}
+02-07-2021 13:28:30.354 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"Magazalar\" Elementine focus ol"}
+02-07-2021 13:28:30.354 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} Elementine focus ol" parameterizedStepValue:"<Magazalar> Elementine focus ol" parameters:"Magazalar"}}
+02-07-2021 13:28:30.355 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementine tıkla \"Magazalar\""}
+02-07-2021 13:28:30.355 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}" parameterizedStepValue:"Elementine tıkla <Magazalar>" parameters:"Magazalar"}}
+02-07-2021 13:28:30.356 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"MagazalariGor\""}
+02-07-2021 13:28:30.356 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <MagazalariGor>" parameters:"MagazalariGor"}}
+02-07-2021 13:28:30.356 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"2\" saniye bekle"}
+02-07-2021 13:28:30.356 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<2> saniye bekle" parameters:"2"}}
+02-07-2021 13:28:30.357 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementine tıkla \"TumMagazalarButonu\""}
+02-07-2021 13:28:30.358 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}" parameterizedStepValue:"Elementine tıkla <TumMagazalarButonu>" parameters:"TumMagazalarButonu"}}
+02-07-2021 13:28:30.358 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"MagazaLetter\" harf bilgili \"TumMagazalar\" magaza bilgilerini csv dosyasına yaz"}
+02-07-2021 13:28:30.359 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} harf bilgili {} magaza bilgilerini csv dosyasına yaz" parameterizedStepValue:"<MagazaLetter> harf bilgili <TumMagazalar> magaza bilgilerini csv dosyasına yaz" parameters:"MagazaLetter" parameters:"TumMagazalar"}}
+02-07-2021 13:28:30.359 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"RandomMagazaContent\" listesinden random bir element seç ve tıkla"}
+02-07-2021 13:28:30.360 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} listesinden random bir element seç ve tıkla" parameterizedStepValue:"<RandomMagazaContent> listesinden random bir element seç ve tıkla" parameters:"RandomMagazaContent"}}
+02-07-2021 13:28:30.360 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"MagazaYorumları\""}
+02-07-2021 13:28:30.361 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <MagazaYorumları>" parameters:"MagazaYorumları"}}
+02-07-2021 13:28:30.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"YorumVarMi\" elementinin text degerini getir"}
+02-07-2021 13:28:30.362 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementinin text degerini getir" parameterizedStepValue:"<YorumVarMi> elementinin text degerini getir" parameters:"YorumVarMi"}}
+02-07-2021 13:28:30.362 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"Bilgisayar\" textini \"Search\" elemente yaz"}
+02-07-2021 13:28:30.363 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz" parameterizedStepValue:"<Bilgisayar> textini <Search> elemente yaz" parameters:"Bilgisayar" parameters:"Search"}}
+02-07-2021 13:28:30.363 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"ThrdBrand\""}
+02-07-2021 13:28:30.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <ThrdBrand>" parameters:"ThrdBrand"}}
+02-07-2021 13:28:30.365 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"RandomProductlist\" listesinden random bir element seç ve tıkla"}
+02-07-2021 13:28:30.365 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} listesinden random bir element seç ve tıkla" parameterizedStepValue:"<RandomProductlist> listesinden random bir element seç ve tıkla" parameters:"RandomProductlist"}}
+02-07-2021 13:28:30.365 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"2\" textini \"Quantity\" elemente yaz"}
+02-07-2021 13:28:30.366 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz" parameterizedStepValue:"<2> textini <Quantity> elemente yaz" parameters:"2" parameters:"Quantity"}}
+02-07-2021 13:28:30.367 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"AddtoBasket\""}
+02-07-2021 13:28:30.367 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <AddtoBasket>" parameters:"AddtoBasket"}}
+02-07-2021 13:28:30.368 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"Sepetim\""}
+02-07-2021 13:28:30.368 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <Sepetim>" parameters:"Sepetim"}}
+02-07-2021 13:28:30.369 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"tamam\""}
+02-07-2021 13:28:30.369 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <tamam>" parameters:"tamam"}}
+02-07-2021 13:28:30.369 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"checkQuantity\" elementinin \"value\" niteliği \"2\" değerine sahip mi"}
+02-07-2021 13:28:30.370 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementinin {} niteliği {} değerine sahip mi" parameterizedStepValue:"<checkQuantity> elementinin <value> niteliği <2> değerine sahip mi" parameters:"checkQuantity" parameters:"value" parameters:"2"}}
+02-07-2021 13:29:19.267 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"AllLetters\" harf bilgili \"TumMagazalar\" magaza bilgilerini csv dosyasına yaz"}
+02-07-2021 13:29:19.274 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} harf bilgili {} magaza bilgilerini csv dosyasına yaz" parameterizedStepValue:"<AllLetters> harf bilgili <TumMagazalar> magaza bilgilerini csv dosyasına yaz" parameters:"AllLetters" parameters:"TumMagazalar"}}
+02-07-2021 13:29:29.318 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"AllLetters\" harf bilgili \"TumMagazalar\" magaza bilgilerini csv dosyasına yaz"}
+02-07-2021 13:29:29.324 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} harf bilgili {} magaza bilgilerini csv dosyasına yaz" parameterizedStepValue:"* <AllLetters> harf bilgili <TumMagazalar> magaza bilgilerini csv dosyasına yaz" parameters:"AllLetters" parameters:"TumMagazalar"}}
+02-07-2021 13:32:23.248 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:32:23.249 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\Desktop\N11-Test-HW\specs\TestCase.cpt
+02-07-2021 13:33:43.448 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}
+02-07-2021 13:33:43.459 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır" parameterizedStepValue:"N11.com sayfası açılır ve ve Pop-up'ta tamam butonu tıklanır"}}
+02-07-2021 13:33:43.460 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Mağazalar/Mağazaları Gör butonuna tıklanır"}
+02-07-2021 13:33:43.460 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır" parameterizedStepValue:"Mağazalar/Mağazaları Gör butonuna tıklanır"}}
+02-07-2021 13:33:43.460 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tüm mağazalar sayfası tıklanır"}
+02-07-2021 13:33:43.460 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası tıklanır" parameterizedStepValue:"Tüm mağazalar sayfası tıklanır"}}
+02-07-2021 13:33:43.460 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}
+02-07-2021 13:33:43.460 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır" parameterizedStepValue:"Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır"}}
+02-07-2021 13:33:43.460 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Random bir magaza secilir"}
+02-07-2021 13:33:43.460 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Random bir magaza secilir" parameterizedStepValue:"Random bir magaza secilir"}}
+02-07-2021 13:33:43.460 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Magaza Yorumları açılır"}
+02-07-2021 13:33:43.461 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorumları açılır" parameterizedStepValue:"Magaza Yorumları açılır"}}
+02-07-2021 13:33:43.461 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Magaza Yorum kontrolu yapilir"}
+02-07-2021 13:33:43.461 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Magaza Yorum kontrolu yapilir" parameterizedStepValue:"Magaza Yorum kontrolu yapilir"}}
+02-07-2021 13:33:43.461 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}
+02-07-2021 13:33:43.461 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır" parameterizedStepValue:"N11.com sayfası açılır ve bilgisayar kelimesi aratılır"}}
+02-07-2021 13:33:43.462 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Marka listesinden üçüncü marka seçildi"}
+02-07-2021 13:33:43.462 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Marka listesinden üçüncü marka seçildi" parameterizedStepValue:"Marka listesinden üçüncü marka seçildi"}}
+02-07-2021 13:33:43.462 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Listelenen ürünlenden random bir ürün seçildi"}
+02-07-2021 13:33:43.462 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Listelenen ürünlenden random bir ürün seçildi" parameterizedStepValue:"Listelenen ürünlenden random bir ürün seçildi"}}
+02-07-2021 13:33:43.462 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Ürün miktarı textboxu temizlenip 2 arttırıldı"}
+02-07-2021 13:33:43.462 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı" parameterizedStepValue:"Ürün miktarı textboxu temizlenip 2 arttırıldı"}}
+02-07-2021 13:33:43.462 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Sepete Ekle butonuna tıklandı"}
+02-07-2021 13:33:43.463 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepete Ekle butonuna tıklandı" parameterizedStepValue:"Sepete Ekle butonuna tıklandı"}}
+02-07-2021 13:33:43.463 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Sepetim butonuyla sepetim safyasına geç"}
+02-07-2021 13:33:43.463 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetim butonuyla sepetim safyasına geç" parameterizedStepValue:"Sepetim butonuyla sepetim safyasına geç"}}
+02-07-2021 13:33:43.463 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Sepetteki ürün sayısının 2 olduğunu kontrol et"}
+02-07-2021 13:33:43.463 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et" parameterizedStepValue:"Sepetteki ürün sayısının 2 olduğunu kontrol et"}}

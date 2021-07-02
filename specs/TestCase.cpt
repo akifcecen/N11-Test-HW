@@ -17,7 +17,7 @@ This is a concept file with following syntax for each concept.
 
 
 # Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır
-* "MagazaLetter" harf bilgili "TumMagazalar" magaza bilgilerini csv dosyasına yaz
+* "AllLetters" harf bilgili "TumMagazalar" magaza bilgilerini csv dosyasına yaz
 
 # Random bir magaza secilir
 *  Elementi bekle ve sonra tıkla "Ads"

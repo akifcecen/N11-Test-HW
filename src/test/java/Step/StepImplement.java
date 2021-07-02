@@ -200,23 +200,22 @@ public class StepImplement extends BaseTest {
         logger.info("Magaza bilgileri CSV dosyasina kaydediliyor.");
 
         List<WebElement> storeElementList = findElements(key);
+        List<WebElement> letterElementsList = findElements(letters);
 
-         String[] alphabet= {"A", "B", "C","Ç","D", "E", "F", "G", "Ğ", "H", "I", "İ", "J"," K","L", "M",
-                 "N", "O", "Ö", "P", "R", "S", "Ş", "T", "U", "Ü" ,"V", "Y", "Z"};
+        for (int i=0;i<=letterElementsList.size();)
+        {
+            logger.info(letterElementsList.get(i).getAttribute("title")+ " Harfli magazalar yaziliyor");
+            saveElementAttributeCsv(storeElementList,letterElementsList.get(i).getAttribute("title"));
+            letterElementsList.get(++i).click();
+            waitBySeconds(2);
+            storeElementList=findElements(key);
 
-         int c=0;
-         while ( c <= alphabet.length){
-             logger.info(alphabet[c]+ " Harfli magazalar yaziliyor");
-             saveElementAttributeCsv(storeElementList,alphabet[c]);
-             driver.findElement(By.xpath("//div[@class='letters']/span[@data-has-seller='"+ alphabet[++c]+"']")).click();
-             waitBySeconds(2);
-             storeElementList=findElements(key);
-         }
+        }
         logger.info("Tum magazalar CSV dosyasina kaydedildi");
     }
 
 public void saveElementAttributeCsv(List<WebElement> list,String letter ) throws IOException {
-    FileWriter fileWriter = new FileWriter((letter+"_letter_store.csv"), false);
+    FileWriter fileWriter = new FileWriter((letter+" letter_store.csv"), false);
     BufferedWriter bufferedWriter=new BufferedWriter(fileWriter);
     StringBuilder stringBuilder = new StringBuilder();
     String chr =letter;

@@ -1,0 +1,52 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 1026milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1026"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 60870"}
+{"logLevel":"info","message":"Listening on port:60870"}
+2021-07-02 12:12:36 INFO  Reflections:228 - Reflections took 2543 ms to scan 84 urls, producing 9909 keys and 52191 values 
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.elementFocus' and 'Step.StepImplement.elementFocus'"}
+{"logLevel":"debug","message":"Found {} Elementine focus ol in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.waitByMilliSeconds' and 'Step.StepImplement.waitByMilliSeconds'"}
+{"logLevel":"debug","message":"Found {} milisaniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.writeListItemsToCsv' and 'Step.StepImplement.writeListItemsToCsv'"}
+{"logLevel":"debug","message":"Found {} harf bilgili {} magaza bilgilerini csv dosyasına yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.clickElement' and 'Step.StepImplement.clickElement'"}
+{"logLevel":"debug","message":"Found Elementine tıkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.sendKeys' and 'Step.StepImplement.sendKeys'"}
+{"logLevel":"debug","message":"Found {} textini {} elemente yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.checkElementAttributeEquals' and 'Step.StepImplement.checkElementAttributeEquals'"}
+{"logLevel":"debug","message":"Found {} elementinin {} niteliği {} değerine sahip mi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.randomPick' and 'Step.StepImplement.randomPick'"}
+{"logLevel":"debug","message":"Found {} listesinden random bir element seç ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.checkAttribute' and 'Step.StepImplement.checkAttribute'"}
+{"logLevel":"debug","message":"Found {} elementinin text degerini getir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.waitBySeconds' and 'Step.StepImplement.waitBySeconds'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.clickElementWithFocus' and 'Step.StepImplement.clickElementWithFocus'"}
+{"logLevel":"debug","message":"Found {} elementine focus ile tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Step.StepImplement.waitForElementThenClick' and 'Step.StepImplement.waitForElementThenClick'"}
+{"logLevel":"debug","message":"Found Elementi bekle ve sonra tıkla {} in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t{} elementine focus ile tıkla : public void clickElementWithFocus(String key)"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySeconds(ınt seconds)"}
+{"logLevel":"debug","message":"\tElementi bekle ve sonra tıkla {} : public void waitForElementThenClick(String key)"}
+{"logLevel":"debug","message":"\t{} listesinden random bir element seç ve tıkla : public void randomPick(String key)"}
+{"logLevel":"debug","message":"\t{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)"}
+{"logLevel":"debug","message":"\t{} Elementine focus ol : public void elementFocus(String key)"}
+{"logLevel":"debug","message":"\tElementine tıkla {} : public void clickElement(String key)"}
+{"logLevel":"debug","message":"\t{} harf bilgili {} magaza bilgilerini csv dosyasına yaz : public void writeListItemsToCsv(String letters, String key) throws IOException"}
+{"logLevel":"debug","message":"\t{} elementinin {} niteliği {} değerine sahip mi : public void checkElementAttributeEquals(String key, String attribute, String expectedValue)"}
+{"logLevel":"debug","message":"\t{} textini {} elemente yaz : public void sendKeys(String text, String key)"}
+{"logLevel":"debug","message":"\t{} elementinin text degerini getir : public void checkAttribute(String key)"}
+2021-07-02 12:12:38 INFO  Reflections:228 - Reflections took 1842 ms to scan 84 urls, producing 9833 keys and 45136 values 
+Jul 02, 2021 12:12:38 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+2021-07-02 12:12:41 INFO  BaseTest:60 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

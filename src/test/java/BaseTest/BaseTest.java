@@ -19,13 +19,13 @@ public class BaseTest {
     protected static WebDriver driver;
     private static Logger LOGGER = LoggerFactory.getLogger(BaseTest.class);
     DesiredCapabilities capabilities = new DesiredCapabilities();
-    String nodeUrl="http://192.168.2.177:29980/wd/hub";
+    String nodeUrl="http://192.168.2.177:31448/wd/hub";
 
     @BeforeScenario
     public void setUP() throws Exception {
 
         String baseUrl  ="https://www.n11.com/";
-        String browser ="remoteBrowser";
+        String browser ="chrome";
 
         if(browser.equals("chrome")){
         ChromeOptions options = new ChromeOptions();

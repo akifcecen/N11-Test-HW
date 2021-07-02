@@ -15,11 +15,6 @@
     "type": "xpath"
   },
   {
-    "key": "MagazaLetter",
-    "value": "//div[@class=\"letters\"]/span[@data-has-seller]",
-    "type": "xpath"
-  },
-  {
     "key": "TumMagazalar",
     "value": "//div[@class=\"tabPanel allSellers\"]/div[@class=\"sellerListHolder\"]/ul/li",
     "type": "xpath"
@@ -99,6 +94,11 @@
   {
     "key": "tamam",
     "value": "//*[@id=\"userKvkkModal\"]/div/div[2]/span",
+    "type": "xpath"
+  },
+  {
+    "key": "AllLetters",
+    "value": "//div[@class='tabPanel allSellers']/div[@class='letters']/span",
     "type": "xpath"
   }
 ]
