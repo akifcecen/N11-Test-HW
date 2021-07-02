@@ -1,11 +1,11 @@
 {"logLevel":"debug","message":"multithreading is set to false"}
 {"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
-{"logLevel":"debug","message":"gauge-java took 888milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
-{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 888"}
+{"logLevel":"debug","message":"gauge-java took 834milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 834"}
 {"logLevel":"debug","message":"starting gRPC server..."}
-{"logLevel":"debug","message":"started gRPC server on port 58766"}
-{"logLevel":"info","message":"Listening on port:58766"}
-2021-07-02 03:58:03 INFO  Reflections:169 - Reflections took 2420 ms to scan 84 urls, producing 9909 keys and 52191 values 
+{"logLevel":"debug","message":"started gRPC server on port 52046"}
+{"logLevel":"info","message":"Listening on port:52046"}
+2021-07-02 03:59:22 INFO  Reflections:228 - Reflections took 2313 ms to scan 84 urls, producing 9909 keys and 52191 values 
 {"logLevel":"debug","message":"Scanning packages for steps"}
 {"logLevel":"debug","message":"Comparing 'Step.StepImplement.elementFocus' and 'Step.StepImplement.elementFocus'"}
 {"logLevel":"debug","message":"Found {} Elementine focus ol in current project scope."}
@@ -42,32 +42,37 @@
 {"logLevel":"debug","message":"\t{} elementinin {} niteliği {} değerine sahip mi : public void checkElementAttributeEquals(String key, String attribute, String expectedValue)"}
 {"logLevel":"debug","message":"\t{} textini {} elemente yaz : public void sendKeys(String text, String key)"}
 {"logLevel":"debug","message":"\t{} elementinin text degerini getir : public void checkAttribute(String key)"}
-2021-07-02 03:58:05 INFO  Reflections:169 - Reflections took 1801 ms to scan 84 urls, producing 9833 keys and 45136 values 
-Jul 02, 2021 3:58:05 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+2021-07-02 03:59:24 INFO  Reflections:228 - Reflections took 1762 ms to scan 84 urls, producing 9833 keys and 45136 values 
+Jul 02, 2021 3:59:24 AM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 26605
+Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 32991
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Jul 02, 2021 3:58:06 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+Jul 02, 2021 3:59:25 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-2021-07-02 03:58:11 INFO  BaseTest:36 - https://www.n11.com/ BROWSERDA ACILDI.
+2021-07-02 03:59:29 INFO  BaseTest:36 - https://www.n11.com/ BROWSERDA ACILDI.
 {"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement"}
-2021-07-02 03:58:11 INFO  StepImplement:147 - LocationAllow elementine tiklandi.
+2021-07-02 03:59:29 INFO  StepImplement:147 - LocationAllow elementine tiklandi.
 {"logLevel":"debug","message":"Executing '{} Elementine focus ol' using 'class Step.StepImplement.elementFocus"}
-2021-07-02 03:58:11 INFO  StepImplement:239 - Magazalar elementine focus olundu.
+2021-07-02 03:59:30 INFO  StepImplement:241 - Magazalar elementine focus olundu.
 {"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement"}
-2021-07-02 03:58:11 INFO  StepImplement:147 - Magazalar elementine tiklandi.
+2021-07-02 03:59:30 INFO  StepImplement:147 - Magazalar elementine tiklandi.
 {"logLevel":"debug","message":"Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick"}
-2021-07-02 03:58:11 INFO  StepImplement:72 - MagazalariGor elementi bulundu.
-2021-07-02 03:58:13 INFO  StepImplement:147 - MagazalariGor elementine tiklandi.
+2021-07-02 03:59:30 INFO  StepImplement:72 - MagazalariGor elementi bulundu.
+2021-07-02 03:59:32 INFO  StepImplement:147 - MagazalariGor elementine tiklandi.
 {"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class Step.StepImplement.waitBySeconds"}
-2021-07-02 03:58:13 INFO  StepImplement:118 - 2 saniye bekleniyor.
+2021-07-02 03:59:32 INFO  StepImplement:118 - 2 saniye bekleniyor.
 {"logLevel":"debug","message":"Executing 'Elementi bekle ve sonra tıkla {}' using 'class Step.StepImplement.waitForElementThenClick"}
-2021-07-02 03:58:27 INFO  StepImplement:72 - Ads elementi bulundu.
-2021-07-02 03:58:27 INFO  StepImplement:147 - Ads elementine tiklandi.
+2021-07-02 03:59:45 INFO  StepImplement:72 - Ads elementi bulundu.
+2021-07-02 03:59:45 INFO  StepImplement:147 - Ads elementine tiklandi.
 {"logLevel":"debug","message":"Executing 'Elementine tıkla {}' using 'class Step.StepImplement.clickElement"}
-2021-07-02 03:58:29 INFO  StepImplement:147 - TumMagazalarButonu elementine tiklandi.
+2021-07-02 03:59:46 INFO  StepImplement:147 - TumMagazalarButonu elementine tiklandi.
 {"logLevel":"debug","message":"Executing '{} harf bilgili {} magaza bilgilerini csv dosyasına yaz' using 'class Step.StepImplement.writeListItemsToCsv"}
-2021-07-02 03:58:29 INFO  StepImplement:199 - Magaza bilgileri CSV dosyasina kaydediliyor.
-2021-07-02 03:58:32 INFO  StepImplement:207 - Ç Harfli magazalar yaziliyor
+2021-07-02 03:59:46 INFO  StepImplement:199 - Magaza bilgileri CSV dosyasina kaydediliyor.
+2021-07-02 03:59:49 INFO  StepImplement:207 - Ç Harfli magazalar yaziliyor
+2021-07-02 03:59:50 INFO  BaseTest:49 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
