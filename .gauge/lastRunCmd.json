@@ -1,8 +1,0 @@
-[
-	"C:\\Program Files\\Gauge\\bin\\gauge.exe",
-	"run",
-	"--machine-readable",
-	"--hide-suggestion",
-	"--simple-console",
-	"C:/Users/testinium/Desktop/N11-Test-HW/specs/N11_Test.spec:8"
-]
