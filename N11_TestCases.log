@@ -172,3 +172,18 @@
 2021-07-02 04:55:33 INFO  StepImplement:148 - tamam elementine tiklandi.
 2021-07-02 04:55:33 INFO  StepImplement:168 - checkQuantity elementinin value niteligi 2 degerine sahip.
 2021-07-02 04:55:33 INFO  BaseTest:57 - TEST TAMAMLANDI DRIVER KAPATILIYOR..
+2021-07-02 04:59:45 INFO  Reflections:169 - Reflections took 2389 ms to scan 84 urls, producing 9909 keys and 52191 values 
+2021-07-02 04:59:47 INFO  Reflections:169 - Reflections took 1839 ms to scan 84 urls, producing 9833 keys and 45136 values 
+2021-07-02 04:59:54 INFO  BaseTest:50 - https://www.n11.com/ REMOTE BROWSERDA ACILDI.
+2021-07-02 04:59:54 INFO  StepImplement:148 - LocationAllow elementine tiklandi.
+2021-07-02 04:59:54 INFO  StepImplement:240 - Magazalar elementine focus olundu.
+2021-07-02 04:59:55 INFO  StepImplement:148 - Magazalar elementine tiklandi.
+2021-07-02 04:59:55 INFO  StepImplement:73 - MagazalariGor elementi bulundu.
+2021-07-02 04:59:56 INFO  StepImplement:148 - MagazalariGor elementine tiklandi.
+2021-07-02 04:59:56 INFO  StepImplement:119 - 2 saniye bekleniyor.
+2021-07-02 05:00:10 INFO  StepImplement:73 - Ads elementi bulundu.
+2021-07-02 05:00:11 INFO  StepImplement:148 - Ads elementine tiklandi.
+2021-07-02 05:00:15 INFO  StepImplement:73 - MagazaYorumları elementi bulundu.
+2021-07-02 05:00:16 INFO  StepImplement:148 - MagazaYorumları elementine tiklandi.
+2021-07-02 05:00:16 INFO  StepImplement:182 - YorumVarMi elementinde hiç yorum yok
+2021-07-02 05:00:16 INFO  BaseTest:57 - TEST TAMAMLANDI DRIVER KAPATILIYOR..

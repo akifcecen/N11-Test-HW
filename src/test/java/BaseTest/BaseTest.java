@@ -46,6 +46,9 @@ public class BaseTest {
             capabilities.setPlatform(Platform.WINDOWS);
             driver = new RemoteWebDriver(new URL(nodeUrl), capabilities);
             driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
+            driver.manage().deleteAllCookies();
+            driver.manage().window().maximize();
+
             driver.get(baseUrl);
             LOGGER.info(baseUrl + " REMOTE BROWSERDA ACILDI.");
         }
