@@ -17,7 +17,7 @@ This is a concept file with following syntax for each concept.
 
 
 # Tüm mağazalar sayfası altında yer alan mağazalar (A-Z) csv dosyasına yazılır
-* "AllLetters" harf bilgili "TumMagazalar" magaza bilgilerini csv dosyasına yaz
+* "AllLetters" listesine bağlı "TumMagazalar" liste bilgilerini csv dosyasına yaz
 
 # Random bir magaza secilir
 *  Elementi bekle ve sonra tıkla "Ads"
@@ -28,6 +28,7 @@ This is a concept file with following syntax for each concept.
 
 # Magaza Yorum kontrolu yapilir
 * "YorumVarMi" elementinin text degerini getir
+
 
 --------------------------------------------------------------TESTCASE2----------------------------------------------------------------------------
 # N11.com sayfası açılır ve bilgisayar kelimesi aratılır

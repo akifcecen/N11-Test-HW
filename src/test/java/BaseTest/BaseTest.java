@@ -19,7 +19,7 @@ public class BaseTest {
     protected static WebDriver driver;
     private static Logger LOGGER = LoggerFactory.getLogger(BaseTest.class);
     DesiredCapabilities capabilities = new DesiredCapabilities();
-    String nodeUrl="http://192.168.2.177:31448/wd/hub";
+    String nodeUrl="http://192.168.2.177:2194/wd/hub";
 
     @BeforeScenario
     public void setUP() throws Exception {
@@ -28,15 +28,15 @@ public class BaseTest {
         String browser ="chrome";
 
         if(browser.equals("chrome")){
-        ChromeOptions options = new ChromeOptions();
-        capabilities = DesiredCapabilities.chrome();
-        options.addArguments("--disable-notifications");
-        options.addArguments("--start-maximized");
-        System.setProperty("webdriver.chrome.driver","WebDriver/chromedriver.exe");
-        driver = new ChromeDriver(options);
-        driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
-        driver.get(baseUrl);
-        LOGGER.info(baseUrl + " BROWSERDA ACILDI.");
+            ChromeOptions options = new ChromeOptions();
+            capabilities = DesiredCapabilities.chrome();
+            options.addArguments("--disable-notifications");
+            options.addArguments("--start-maximized");
+            System.setProperty("webdriver.chrome.driver","WebDriver/chromedriver.exe");
+            driver = new ChromeDriver(options);
+            driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
+            driver.get(baseUrl);
+            LOGGER.info(baseUrl + " BROWSERDA ACILDI.");
         }
 
         else if(browser.equals("remoteBrowser")){
@@ -44,6 +44,7 @@ public class BaseTest {
             capabilities = DesiredCapabilities.chrome();
             capabilities.setBrowserName("chrome");
             capabilities.setPlatform(Platform.WINDOWS);
+            capabilities.acceptInsecureCerts();
             driver = new RemoteWebDriver(new URL(nodeUrl), capabilities);
             driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
             driver.manage().deleteAllCookies();

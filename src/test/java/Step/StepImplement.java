@@ -194,15 +194,24 @@ public class StepImplement extends BaseTest {
     }
 
 
+    @Step({"<key> listesine bağlı bilgileri csv dosyasına yaz"})
+    public void writeListItems(String key) throws IOException {
+        logger.info("Element bilgileri CSV dosyasina kaydediliyor.");
+        List<WebElement> elementList = findElements(key);
+        saveElementAttributeCsv(elementList,"ElementsInfo");
+        logger.info("Tum element bilgileri CSV dosyasina kaydedildi");
+    }
 
-    @Step({"<key> harf bilgili <key> magaza bilgilerini csv dosyasına yaz"})
+
+
+    @Step({"<key> listesine bağlı <key> liste bilgilerini csv dosyasına yaz"})
     public void writeListItemsToCsv(String letters,String key) throws IOException {
         logger.info("Magaza bilgileri CSV dosyasina kaydediliyor.");
 
         List<WebElement> storeElementList = findElements(key);
         List<WebElement> letterElementsList = findElements(letters);
 
-        for (int i=0;i<=letterElementsList.size();)
+        for (int i=0;i<=letterElementsList.size()-1;)
         {
             logger.info(letterElementsList.get(i).getAttribute("title")+ " Harfli magazalar yaziliyor");
             saveElementAttributeCsv(storeElementList,letterElementsList.get(i).getAttribute("title"));
@@ -215,13 +224,13 @@ public class StepImplement extends BaseTest {
     }
 
 public void saveElementAttributeCsv(List<WebElement> list,String letter ) throws IOException {
-    FileWriter fileWriter = new FileWriter((letter+" letter_store.csv"), false);
+    FileWriter fileWriter = new FileWriter((letter+" .csv"), false);
     BufferedWriter bufferedWriter=new BufferedWriter(fileWriter);
     StringBuilder stringBuilder = new StringBuilder();
     String chr =letter;
     String store ="";
     Iterator<WebElement> it = list.iterator();
-    stringBuilder.append(chr + " HARFLI MAGAZALAR-------------------------------------------------------------------------\n");
+    stringBuilder.append(chr + " Elementler-------------------------------------------------------------------------\n");
     while (it.hasNext()){
         store=it.next().getText();
         stringBuilder.append(store).append(",\n");
